@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "fa231a99-88c6-30b6-92a7-d42cfe7675af",
+    "name": "Stouf",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c08c8ead-2c3d-3c4d-80f4-10640de6223b",
+    "name": "leon12full20",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "5ea42daa-f6ca-3744-9609-a5fe1291293f",
+    "name": "Leon12full",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f699187f-af2e-34e4-a4d9-b9c5a918b208",
+    "name": "l",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
