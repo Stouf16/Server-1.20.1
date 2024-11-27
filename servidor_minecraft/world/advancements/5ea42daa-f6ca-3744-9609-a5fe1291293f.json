@@ -43,12 +43,6 @@
     },
     "done": true
   },
-  "jodek:utility": {
-    "criteria": {
-      "tick": "2024-11-27 19:53:00 +0000"
-    },
-    "done": true
-  },
   "aquaculture:recipes/misc/bonemeal_from_fish_bones": {
     "criteria": {
       "has_items": "2024-11-27 19:52:59 +0000"
@@ -96,12 +90,6 @@
     },
     "done": true
   },
-  "betterdungeons:root": {
-    "criteria": {
-      "always": "2024-11-27 19:53:00 +0000"
-    },
-    "done": true
-  },
   "aquaculture:recipes/food/sushi": {
     "criteria": {
       "has_alt_items": "2024-11-27 19:52:59 +0000",
@@ -124,18 +112,6 @@
   "aquaculture:recipes/building_blocks/planks_from_driftwood": {
     "criteria": {
       "has_items": "2024-11-27 19:52:59 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2024-11-27 19:53:03 +0000"
-    },
-    "done": true
-  },
-  "jodek:sleep": {
-    "criteria": {
-      "tick": "2024-11-27 19:53:00 +0000"
     },
     "done": true
   },
@@ -184,12 +160,6 @@
   "aquaculture:recipes/aquaculture/double_hook": {
     "criteria": {
       "has_items": "2024-11-27 19:52:59 +0000"
-    },
-    "done": true
-  },
-  "betterdeserttemples:root": {
-    "criteria": {
-      "always": "2024-11-27 19:53:00 +0000"
     },
     "done": true
   },
@@ -266,18 +236,6 @@
     },
     "done": true
   },
-  "jodek:root": {
-    "criteria": {
-      "tick": "2024-11-27 19:53:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:birch_forest": "2024-11-27 19:53:03 +0000"
-    },
-    "done": false
-  },
   "aquaculture:recipes/misc/neptunium_ingot_from_nuggets": {
     "criteria": {
       "has_items": "2024-11-27 19:52:59 +0000"
@@ -300,6 +258,81 @@
   "aquaculture:recipes/decorations/jungle_fish_mount": {
     "criteria": {
       "has_items": "2024-11-27 19:52:59 +0000"
+    },
+    "done": true
+  },
+  "jodek:utility": {
+    "criteria": {
+      "tick": "2024-11-27 19:53:00 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-11-27 19:53:00 +0000"
+    },
+    "done": true
+  },
+  "jodek:sleep": {
+    "criteria": {
+      "tick": "2024-11-27 19:53:00 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-11-27 19:53:00 +0000"
+    },
+    "done": true
+  },
+  "jodek:root": {
+    "criteria": {
+      "tick": "2024-11-27 19:53:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-11-27 19:53:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2024-11-27 19:53:03 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-11-27 19:58:30 +0000",
+      "minecraft:old_growth_birch_forest": "2024-11-27 19:57:05 +0000",
+      "minecraft:meadow": "2024-11-27 19:58:32 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-11-27 19:55:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-11-27 19:55:42 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_plains": "2024-11-27 19:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-11-27 19:56:58 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dirt_slab": {
+    "criteria": {
+      "has_dirt": "2024-11-27 19:57:15 +0000"
     },
     "done": true
   },
