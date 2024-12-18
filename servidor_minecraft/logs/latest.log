@@ -4455,3 +4455,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:transformation
 [18Dec2024 03:15:29.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stouf has made the advancement [Stone Age]
 [18Dec2024 03:16:09.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stouf has made the advancement [Getting an Upgrade]
 [18Dec2024 03:17:14.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stouf has made the advancement [A Strange Grave Dust]
+[18Dec2024 03:26:04.996] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stouf lost connection: Disconnected
+[18Dec2024 03:26:04.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stouf left the game
