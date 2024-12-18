@@ -305,8 +305,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-18 03:59:59 +0000",
+      "minecraft:beach": "2024-12-18 04:02:14 +0000",
       "minecraft:forest": "2024-12-18 03:06:19 +0000",
-      "minecraft:ocean": "2024-12-18 03:36:17 +0000"
+      "minecraft:ocean": "2024-12-18 03:36:17 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-18 03:53:41 +0000"
     },
     "done": false
   },
@@ -1600,6 +1603,12 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2024-12-18 03:43:53 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_lizard_tail": {
+    "criteria": {
+      "has_lizard_tail": "2024-12-18 03:54:45 +0000"
     },
     "done": true
   },
