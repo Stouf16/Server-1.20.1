@@ -1800,6 +1800,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-12-18 04:46:46 +0000"
+    },
+    "done": true
+  },
   "mcwholidays:recipes/skeleton_balloon": {
     "criteria": {
       "has_planks": "2024-12-18 04:42:56 +0000"
@@ -1836,9 +1842,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-18 04:46:46 +0000"
+    },
+    "done": true
+  },
   "mcwholidays:recipes/ghost_balloon": {
     "criteria": {
       "has_planks": "2024-12-18 04:42:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/andesite_pillar_trim": {
+    "criteria": {
+      "has_andesite_pillar_trim": "2024-12-18 04:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-18 04:46:46 +0000"
     },
     "done": true
   },
@@ -1854,15 +1878,57 @@
     },
     "done": true
   },
+  "easy_mob_farm:recipes/upgrade/filter/no_flowers_filter": {
+    "criteria": {
+      "has_allium": "2024-12-18 04:45:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/coal": {
+    "criteria": {
+      "has_coal": "2024-12-18 04:46:41 +0000"
+    },
+    "done": true
+  },
   "mcwholidays:recipes/happy_ghost": {
     "criteria": {
       "has_planks": "2024-12-18 04:42:57 +0000"
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/coal/coal_arrow": {
+    "criteria": {
+      "has_req": "2024-12-18 04:46:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-18 04:42:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/andesite_corner_trim": {
+    "criteria": {
+      "has_andesite_corner_trim": "2024-12-18 04:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-18 04:46:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/rock_path": {
+    "criteria": {
+      "has_andesite": "2024-12-18 04:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-18 04:46:46 +0000"
     },
     "done": true
   },
@@ -1890,15 +1956,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-18 04:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-18 04:46:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-12-18 04:45:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_white_tulip": "2024-12-18 04:39:10 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-18 04:46:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/white_trampoline": {
     "criteria": {
       "has_wool": "2024-12-18 04:42:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-18 04:48:20 +0000"
     },
     "done": true
   },
@@ -1932,6 +2028,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-12-18 04:46:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2024-12-18 04:42:56 +0000"
@@ -1947,6 +2049,18 @@
   "mcwholidays:recipes/haunting_ghost": {
     "criteria": {
       "has_planks": "2024-12-18 04:42:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2024-12-18 04:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-12-18 04:46:46 +0000"
     },
     "done": true
   },
