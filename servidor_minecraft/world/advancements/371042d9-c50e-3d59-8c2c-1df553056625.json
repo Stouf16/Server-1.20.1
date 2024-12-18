@@ -1841,9 +1841,33 @@
     },
     "done": true
   },
+  "mcwholidays:recipes/laying_hay_bale": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:21:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/diving_board": {
+    "criteria": {
+      "has_wheat": "2024-12-18 05:21:49 +0000"
+    },
+    "done": true
+  },
   "mcwholidays:recipes/medium_pumpkin": {
     "criteria": {
       "has_planks": "2024-12-18 05:08:14 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/hay_wheelbarrow": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:21:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2024-12-18 05:21:49 +0000"
     },
     "done": true
   },
@@ -1901,6 +1925,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-18 05:21:49 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2024-12-18 04:51:24 +0000"
@@ -1913,15 +1943,39 @@
     },
     "done": true
   },
+  "easy_mob_farm:recipes/upgrade/enchancement/loot_enhancement": {
+    "criteria": {
+      "has_emerald": "2024-12-18 05:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-18 05:21:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-18 05:11:00 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-12-18 05:21:48 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/pumpkin": {
     "criteria": {
       "has_pumpkin": "2024-12-18 05:08:14 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/standing_hay_bale": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:21:48 +0000"
     },
     "done": true
   },
@@ -2063,6 +2117,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/door_mat": {
+    "criteria": {
+      "has_wheat": "2024-12-18 05:21:49 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2024-12-18 05:21:49 +0000"
+    },
+    "done": true
+  },
   "easy_mob_farm:recipes/upgrade/filter/no_flowers_filter": {
     "criteria": {
       "has_allium": "2024-12-18 04:45:56 +0000"
@@ -2084,6 +2150,12 @@
   "travelersbackpack:recipes/misc/coal": {
     "criteria": {
       "has_coal": "2024-12-18 04:46:41 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/basket": {
+    "criteria": {
+      "has_wheat": "2024-12-18 05:21:49 +0000"
     },
     "done": true
   },
@@ -2141,6 +2213,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-18 05:21:55 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/luck_enhancement": {
+    "criteria": {
+      "has_emerald": "2024-12-18 05:21:55 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/rock_path": {
     "criteria": {
       "has_andesite": "2024-12-18 04:46:46 +0000"
@@ -2156,6 +2240,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-18 04:46:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2024-12-18 05:21:55 +0000"
     },
     "done": true
   },
@@ -2261,6 +2351,12 @@
     },
     "done": true
   },
+  "vinery:recipes/straw_hat": {
+    "criteria": {
+      "has_wheat": "2024-12-18 05:21:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2024-12-18 04:42:56 +0000"
@@ -2294,6 +2390,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2024-12-18 04:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-18 05:21:53 +0000"
     },
     "done": true
   },
@@ -2345,6 +2447,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-18 05:21:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2024-12-18 05:13:56 +0000",
@@ -2352,6 +2460,12 @@
       "cooked_chicken": "2024-12-18 04:43:13 +0000"
     },
     "done": false
+  },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/emerald/emerald_arrow": {
+    "criteria": {
+      "has_req": "2024-12-18 05:21:55 +0000"
+    },
+    "done": true
   },
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
