@@ -306,6 +306,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-18 04:26:11 +0000",
+      "minecraft:birch_forest": "2024-12-18 05:10:23 +0000",
+      "minecraft:river": "2024-12-18 05:10:20 +0000",
       "minecraft:forest": "2024-12-18 04:09:24 +0000",
       "minecraft:ocean": "2024-12-18 04:50:14 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-18 04:18:04 +0000"
@@ -530,7 +532,8 @@
   },
   "vinery:main/crop_collector": {
     "criteria": {
-      "vinery:white_grape_seeds": "2024-12-18 04:17:27 +0000"
+      "vinery:white_grape_seeds": "2024-12-18 04:17:27 +0000",
+      "vinery:red_grape_seeds": "2024-12-18 05:05:00 +0000"
     },
     "done": false
   },
@@ -1795,6 +1798,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-18 05:11:00 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2024-12-18 05:01:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2024-12-18 04:42:56 +0000"
@@ -1819,15 +1834,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-18 05:11:00 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/medium_pumpkin": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:08:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
     "criteria": {
       "has_mutton": "2024-12-18 04:42:56 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-12-18 05:01:11 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm/animal_plains_farm": {
+    "criteria": {
+      "has_egg": "2024-12-18 05:01:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-12-18 04:50:08 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/pumpkin_wheelbarrow": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:08:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-18 05:04:42 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dirt_slab": {
+    "criteria": {
+      "has_dirt": "2024-12-18 05:11:35 +0000"
     },
     "done": true
   },
@@ -1855,9 +1912,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-18 05:11:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2024-12-18 05:08:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2024-12-18 05:11:00 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/lit_shocked_pumpkin": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:08:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-12-18 05:08:14 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/three_pumpkins": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:08:14 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/white_curtain": {
     "criteria": {
       "has_wool": "2024-12-18 04:42:57 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/small_pumpkin": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:08:14 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/lit_screaming_pumpkin": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:08:14 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/carved_smile_pumpkin": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:08:14 +0000"
     },
     "done": true
   },
@@ -1879,15 +1990,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-18 05:11:00 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/carved_friendly_pumpkin": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:08:14 +0000"
+    },
+    "done": true
+  },
   "mcwholidays:recipes/ghost_balloon": {
     "criteria": {
       "has_planks": "2024-12-18 04:42:57 +0000"
     },
     "done": true
   },
+  "mcwholidays:recipes/lit_smile_pumpkin": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:08:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-12-18 04:50:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-18 05:11:00 +0000"
     },
     "done": true
   },
@@ -1915,6 +2050,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2024-12-18 05:01:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-12-18 04:50:08 +0000"
@@ -1924,6 +2065,18 @@
   "easy_mob_farm:recipes/upgrade/filter/no_flowers_filter": {
     "criteria": {
       "has_allium": "2024-12-18 04:45:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-18 05:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-18 05:11:00 +0000"
     },
     "done": true
   },
@@ -1939,6 +2092,12 @@
     },
     "done": true
   },
+  "mcwholidays:recipes/pair_of_pumpkins": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:08:14 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/coal/coal_arrow": {
     "criteria": {
       "has_req": "2024-12-18 04:46:41 +0000"
@@ -1948,6 +2107,18 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-18 04:42:56 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/carved_evil_pumpkin": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:08:14 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/carved_screaming_pumpkin": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:08:14 +0000"
     },
     "done": true
   },
@@ -1963,9 +2134,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-12-18 05:08:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/rock_path": {
     "criteria": {
       "has_andesite": "2024-12-18 04:46:46 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/large_pumpkin": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:08:14 +0000"
     },
     "done": true
   },
@@ -2071,6 +2254,12 @@
     },
     "done": true
   },
+  "mcwholidays:recipes/scarecrow": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:08:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2024-12-18 04:42:56 +0000"
@@ -2095,6 +2284,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2024-12-18 05:01:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2024-12-18 04:46:46 +0000"
@@ -2107,6 +2302,12 @@
     },
     "done": true
   },
+  "mcwholidays:recipes/lit_evil_pumpkin": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:08:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/white_sofa": {
     "criteria": {
       "has_wool": "2024-12-18 04:42:57 +0000"
@@ -2116,6 +2317,18 @@
   "mcwholidays:recipes/haunting_ghost": {
     "criteria": {
       "has_planks": "2024-12-18 04:42:57 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/carved_shocked_pumpkin": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:08:14 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/lit_friendly_pumpkin": {
+    "criteria": {
+      "has_planks": "2024-12-18 05:08:14 +0000"
     },
     "done": true
   },
