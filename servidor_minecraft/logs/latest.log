@@ -4441,3 +4441,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:transformation
 [18Dec2024 03:06:27.393] [Server thread/INFO] [coroutil/]: CoroUtil detected Serene Seasons Not Installed for use
 [18Dec2024 03:06:35.294] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Stouf (fa231a99-88c6-30b6-92a7-d42cfe7675af)
 [18Dec2024 03:06:41.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8454ms or 169 ticks behind
+[18Dec2024 03:08:05.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[18Dec2024 03:08:40.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stouf has made the advancement [Alex's Mobs]
+[18Dec2024 03:08:55.258] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2875ms or 57 ticks behind
+[18Dec2024 03:09:22.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Stouf: Set own game mode to Creative Mode]
+[18Dec2024 03:09:52.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Stouf: Set own game mode to Survival Mode]
+[18Dec2024 03:10:40.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stouf has made the advancement [Scarlet Temptation]
+[18Dec2024 03:13:52.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stouf has made the advancement [Monster Hunter]
+[18Dec2024 03:14:51.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Stouf: Set own game mode to Creative Mode]
+[18Dec2024 03:14:59.117] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[18Dec2024 03:15:06.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7865ms or 157 ticks behind
+[18Dec2024 03:15:15.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Stouf: Set own game mode to Survival Mode]
+[18Dec2024 03:15:29.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stouf has made the advancement [Stone Age]
+[18Dec2024 03:16:09.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stouf has made the advancement [Getting an Upgrade]
+[18Dec2024 03:17:14.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stouf has made the advancement [A Strange Grave Dust]

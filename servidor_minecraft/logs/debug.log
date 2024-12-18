@@ -11031,3 +11031,34 @@ com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:transformation
 [18Dec2024 03:06:47.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Dec2024 03:07:40.021] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-329, y=65, z=346} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
 [18Dec2024 03:07:40.322] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-317, y=65, z=341} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[18Dec2024 03:08:05.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[18Dec2024 03:08:40.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stouf has made the advancement [Alex's Mobs]
+[18Dec2024 03:08:55.258] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2875ms or 57 ticks behind
+[18Dec2024 03:09:22.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Stouf: Set own game mode to Creative Mode]
+[18Dec2024 03:09:52.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Stouf: Set own game mode to Survival Mode]
+[18Dec2024 03:10:40.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stouf has made the advancement [Scarlet Temptation]
+[18Dec2024 03:11:49.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 03:11:49.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 03:13:52.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stouf has made the advancement [Monster Hunter]
+[18Dec2024 03:14:51.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Stouf: Set own game mode to Creative Mode]
+[18Dec2024 03:14:58.844] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Stouf'/926, l='ServerLevel[world]', x=-299.70, y=65.00, z=118.92], dimensionLocationPath overworld
+[18Dec2024 03:14:59.117] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[18Dec2024 03:15:06.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7865ms or 157 ticks behind
+[18Dec2024 03:15:15.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Stouf: Set own game mode to Survival Mode]
+[18Dec2024 03:15:17.441] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Stouf'/926, l='ServerLevel[world]', x=-299.50, y=65.00, z=118.51]
+[18Dec2024 03:15:26.492] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Stouf'/926, l='ServerLevel[world]', x=-299.50, y=65.00, z=118.30], dimensionLocationPath overworld
+[18Dec2024 03:15:26.492] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Stouf'/926, l='ServerLevel[world]', x=-299.50, y=65.00, z=118.30] in list []
+[18Dec2024 03:15:26.549] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Stouf'/926, l='ServerLevel[world]', x=-299.50, y=65.00, z=118.30]
+[18Dec2024 03:15:29.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stouf has made the advancement [Stone Age]
+[18Dec2024 03:16:09.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stouf has made the advancement [Getting an Upgrade]
+[18Dec2024 03:16:53.714] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-300, y=67, z=118}) doesn't have enough leaves around top most log
+[18Dec2024 03:16:57.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 03:16:57.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 03:17:14.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stouf has made the advancement [A Strange Grave Dust]
+[18Dec2024 03:17:32.700] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Stouf'/926, l='ServerLevel[world]', x=-299.60, y=65.00, z=118.30], dimensionLocationPath overworld
+[18Dec2024 03:17:32.701] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Stouf'/926, l='ServerLevel[world]', x=-299.60, y=65.00, z=118.30] in list []
+[18Dec2024 03:17:32.907] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Stouf'/926, l='ServerLevel[world]', x=-299.60, y=65.00, z=118.30]
+[18Dec2024 03:17:33.669] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-300, y=67, z=117}) doesn't have enough leaves around top most log
+[18Dec2024 03:17:35.245] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/2346, l='ServerLevel[world]', x=-299.72, y=65.21, z=119.52], dimensionLocationPath overworld
+[18Dec2024 03:17:35.246] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/2346, l='ServerLevel[world]', x=-299.72, y=65.21, z=119.52] in list []
+[18Dec2024 03:17:35.733] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/2346, l='ServerLevel[world]', x=-300.49, y=65.00, z=119.73, removed=DISCARDED]
