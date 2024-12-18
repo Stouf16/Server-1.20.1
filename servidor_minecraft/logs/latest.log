@@ -4074,3 +4074,112 @@ com.google.gson.JsonSyntaxException: Unknown item 'twilightforest:transformation
 [18Dec2024 03:38:40.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stouf has made the advancement [Knowledge raises the soul]
 [18Dec2024 03:38:54.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Stouf: Teleported Leon12full to Stouf]
 [18Dec2024 03:39:49.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leon12full has made the advancement [Monster Hunter]
+[18Dec2024 03:42:52.006] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@a15641[id=<null>,name=ShalltyBlood,properties={},legacy=false] (/127.148.246.101:35851): Took too long to log in
+[18Dec2024 03:42:52.008] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@a15641[id=<null>,name=ShalltyBlood,properties={},legacy=false] (/127.148.246.101:35851) lost connection: Took too long to log in
+[18Dec2024 03:42:52.054] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Dec2024 03:44:02.604] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@49ea7a3e[id=<null>,name=ShalltyBlood,properties={},legacy=false] (/127.148.246.101:52699): Took too long to log in
+[18Dec2024 03:44:02.605] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@49ea7a3e[id=<null>,name=ShalltyBlood,properties={},legacy=false] (/127.148.246.101:52699) lost connection: Took too long to log in
+[18Dec2024 03:44:02.652] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Dec2024 03:44:27.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leon12full has made the advancement [A Strange Grave Dust]
+[18Dec2024 03:45:09.624] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShalltyBlood[/127.148.246.101:45307] logged in with entity id 2599 at (-292.5, 76.0, 126.5)
+[18Dec2024 03:45:09.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShalltyBlood joined the game
+[18Dec2024 03:45:09.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShalltyBlood has made the advancement [Christmas]
+[18Dec2024 03:46:24.834] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShalltyBlood lost connection: Timed out
+[18Dec2024 03:46:24.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShalltyBlood left the game
+[18Dec2024 03:46:24.896] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Dec2024 03:47:13.941] [Server thread/INFO] [armorplus/]: Charge at: 37
+[18Dec2024 03:47:14.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leon12full has made the advancement [Take Aim]
+[18Dec2024 03:47:16.177] [Server thread/INFO] [armorplus/]: Charge at: 31
+[18Dec2024 03:49:56.496] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@52d8cec6[id=<null>,name=ShalltyBlood,properties={},legacy=false] (/127.148.246.101:42439): Took too long to log in
+[18Dec2024 03:49:56.499] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@52d8cec6[id=<null>,name=ShalltyBlood,properties={},legacy=false] (/127.148.246.101:42439) lost connection: Took too long to log in
+[18Dec2024 03:49:56.590] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Dec2024 03:50:18.079] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[18Dec2024 03:50:28.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leon12full has made the advancement [Acquire Hardware]
+[18Dec2024 03:51:10.215] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pol4ncus[/127.255.152.176:54807] logged in with entity id 3963 at (-277.5, 77.0, 122.5)
+[18Dec2024 03:51:10.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pol4ncus joined the game
+[18Dec2024 03:51:10.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pol4ncus has made the advancement [Christmas]
+[18Dec2024 03:51:20.710] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4f359398[id=<null>,name=ShalltyBlood,properties={},legacy=false] (/127.148.246.101:57107): Took too long to log in
+[18Dec2024 03:51:20.711] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4f359398[id=<null>,name=ShalltyBlood,properties={},legacy=false] (/127.148.246.101:57107) lost connection: Took too long to log in
+[18Dec2024 03:51:20.758] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Dec2024 03:51:21.316] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Pol4ncus (eae5f1b8-9e4c-3aa1-a951-4387682d488e)
+[18Dec2024 03:52:14.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16008ms or 320 ticks behind
+[18Dec2024 03:52:14.802] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2a72de45[id=<null>,name=ShalltyBlood,properties={},legacy=false] (/127.148.246.101:55269) lost connection: Timed out
+[18Dec2024 03:52:14.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leon12full moved too quickly! 8.275341844031402,2.024424088213692,5.302535241471816
+[18Dec2024 03:52:22.125] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-241, y=27, z=-333}
+[18Dec2024 03:52:22.130] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-244, y=27, z=-330}
+[18Dec2024 03:52:22.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leon12full moved too quickly! 8.044851301254369,1.4199999868869781,6.066279739204518
+[18Dec2024 03:52:31.715] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=26, z=-417}
+[18Dec2024 03:52:31.985] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=26, z=-415}
+[18Dec2024 03:52:32.256] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=27, z=-357}
+[18Dec2024 03:52:33.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pol4ncus has made the advancement [Minecraft Comes Alive]
+[18Dec2024 03:52:42.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12792ms or 255 ticks behind
+[18Dec2024 03:52:48.678] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=31, z=-363}
+[18Dec2024 03:52:48.990] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-226, y=31, z=-338}
+[18Dec2024 03:52:48.990] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=31, z=-338}
+[18Dec2024 03:52:48.992] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-223, y=26, z=-337}
+[18Dec2024 03:52:48.993] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-223, y=26, z=-336}
+[18Dec2024 03:52:49.478] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=27, z=-357}
+[18Dec2024 03:52:50.730] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-317, y=26, z=-306}
+[18Dec2024 03:52:50.731] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-317, y=26, z=-307}
+[18Dec2024 03:52:50.732] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-319, y=25, z=-315}
+[18Dec2024 03:52:50.993] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-325, y=25, z=-316}
+[18Dec2024 03:52:50.994] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-321, y=31, z=-307}
+[18Dec2024 03:52:51.290] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-200, y=35, z=-385}
+[18Dec2024 03:52:51.292] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=33, z=-388}
+[18Dec2024 03:52:51.293] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-206, y=31, z=-384}
+[18Dec2024 03:52:51.313] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=31, z=-381}
+[18Dec2024 03:52:51.314] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=31, z=-381}
+[18Dec2024 03:52:51.314] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=26, z=-380}
+[18Dec2024 03:52:51.315] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=26, z=-380}
+[18Dec2024 03:52:51.316] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-198, y=28, z=-384}
+[18Dec2024 03:52:51.317] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=28, z=-380}
+[18Dec2024 03:52:51.318] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-199, y=33, z=-385}
+[18Dec2024 03:52:56.846] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=26, z=-338}
+[18Dec2024 03:52:56.847] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=26, z=-340}
+[18Dec2024 03:52:56.847] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-379, y=25, z=-343}
+[18Dec2024 03:53:00.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stouf moved too quickly! -9.92915434819156,-0.02442408821369213,-2.458150910491213
+[18Dec2024 03:53:01.116] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-339}
+[18Dec2024 03:53:01.118] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=32, z=-338}
+[18Dec2024 03:53:02.441] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShalltyBlood[/127.148.246.101:49161] logged in with entity id 4486 at (-292.5, 76.0, 126.5)
+[18Dec2024 03:53:02.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShalltyBlood joined the game
+[18Dec2024 03:53:07.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9896ms or 197 ticks behind
+[18Dec2024 03:53:08.510] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-326, y=31, z=-339}
+[18Dec2024 03:53:08.511] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-325, y=31, z=-339}
+[18Dec2024 03:53:08.511] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=26, z=-337}
+[18Dec2024 03:53:08.512] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-327, y=25, z=-340}
+[18Dec2024 03:53:08.512] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-326, y=31, z=-331}
+[18Dec2024 03:53:08.512] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-319, y=26, z=-339}
+[18Dec2024 03:53:08.512] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=25, z=-336}
+[18Dec2024 03:53:08.513] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-319, y=25, z=-336}
+[18Dec2024 03:53:11.125] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=26, z=-417}
+[18Dec2024 03:53:11.126] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=26, z=-415}
+[18Dec2024 03:53:11.717] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-226, y=31, z=-338}
+[18Dec2024 03:53:11.721] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=31, z=-338}
+[18Dec2024 03:53:11.722] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-223, y=26, z=-337}
+[18Dec2024 03:53:11.722] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-223, y=26, z=-336}
+[18Dec2024 03:53:24.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
+[18Dec2024 03:53:42.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3171ms or 63 ticks behind
+[18Dec2024 03:53:53.115] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-118, y=-11, z=4}
+[18Dec2024 03:54:04.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7306ms or 146 ticks behind
+[18Dec2024 03:54:26.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6940ms or 138 ticks behind
+[18Dec2024 03:54:32.652] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShalltyBlood lost connection: Timed out
+[18Dec2024 03:54:32.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShalltyBlood left the game
+[18Dec2024 03:54:32.767] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Dec2024 03:54:48.313] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6569ms or 131 ticks behind
+[18Dec2024 03:55:09.570] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6277ms or 125 ticks behind
+[18Dec2024 03:55:18.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Stouf> no los podré escuchar
+[18Dec2024 03:55:22.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Stouf> estoy en llamada
+[18Dec2024 03:55:33.594] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9050ms or 181 ticks behind
+[18Dec2024 03:55:58.006] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9413ms or 188 ticks behind
+[18Dec2024 03:56:26.760] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13767ms or 275 ticks behind
+[18Dec2024 03:56:56.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14842ms or 296 ticks behind
+[18Dec2024 03:57:20.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pol4ncus has made the advancement [Amateur Archaeologist]
+[18Dec2024 03:57:29.109] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17566ms or 351 ticks behind
+[18Dec2024 03:57:58.913] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14820ms or 296 ticks behind
+[18Dec2024 03:58:21.298] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-133, y=-9, z=6}
+[18Dec2024 03:58:32.247] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18353ms or 367 ticks behind
+[18Dec2024 03:59:05.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Stouf> mucho lag pe polanco tmr
+[18Dec2024 03:59:08.537] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21294ms or 425 ticks behind
+[18Dec2024 03:59:19.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pol4ncus> perate
+[18Dec2024 03:59:49.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26379ms or 527 ticks behind
+[18Dec2024 03:59:57.542] [Server thread/INFO] [armorplus/]: Charge at: 13
