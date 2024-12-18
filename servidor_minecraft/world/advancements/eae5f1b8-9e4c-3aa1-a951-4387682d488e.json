@@ -309,7 +309,8 @@
       "minecraft:river": "2024-12-18 04:03:12 +0000",
       "minecraft:forest": "2024-12-18 03:51:11 +0000",
       "minecraft:ocean": "2024-12-18 04:28:43 +0000",
-      "minecraft:old_growth_birch_forest": "2024-12-18 04:25:06 +0000"
+      "minecraft:old_growth_birch_forest": "2024-12-18 04:25:06 +0000",
+      "minecraft:plains": "2024-12-18 04:52:11 +0000"
     },
     "done": false
   },
@@ -3004,6 +3005,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-18 04:54:34 +0000",
       "minecraft:creeper": "2024-12-18 04:20:00 +0000",
       "minecraft:zombie": "2024-12-18 04:13:04 +0000",
       "minecraft:drowned": "2024-12-18 04:29:55 +0000"
@@ -3340,6 +3342,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-18 04:38:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-18 04:38:33 +0000"
+    },
+    "done": true
+  },
   "easy_mob_farm:recipes/mob_farm_template/tier0_mob_farm_template": {
     "criteria": {
       "has_copper_ingot": "2024-12-18 04:41:42 +0000"
@@ -3355,18 +3369,6 @@
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2024-12-18 04:41:42 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_knowledge": {
-    "criteria": {
-      "coded_trigger": "2024-12-18 04:38:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/conduit": {
-    "criteria": {
-      "has_nautilus_shell": "2024-12-18 04:41:50 +0000"
     },
     "done": true
   },
@@ -3394,9 +3396,93 @@
     },
     "done": true
   },
-  "tombstone:adventure/ashes_and_bones": {
+  "minecraft:recipes/misc/conduit": {
     "criteria": {
-      "coded_trigger": "2024-12-18 04:38:33 +0000"
+      "has_nautilus_shell": "2024-12-18 04:41:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-18 04:53:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-18 04:53:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-18 04:53:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2024-12-18 04:53:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-12-18 05:00:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-12-18 04:55:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-18 04:53:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-18 04:58:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-18 04:53:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-18 04:53:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-12-18 04:55:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-12-18 04:55:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-18 04:58:38 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/get_apple": {
+    "criteria": {
+      "apple": "2024-12-18 04:53:49 +0000"
     },
     "done": true
   },

@@ -307,6 +307,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-18 04:26:11 +0000",
       "minecraft:forest": "2024-12-18 04:09:24 +0000",
+      "minecraft:ocean": "2024-12-18 04:50:14 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-18 04:18:04 +0000"
     },
     "done": false
@@ -1800,6 +1801,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2024-12-18 04:51:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2024-12-18 04:46:46 +0000"
@@ -1818,9 +1825,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-12-18 04:50:08 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/white_sheet": {
     "criteria": {
       "has_white_sheet": "2024-12-18 04:42:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-12-18 04:50:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-12-18 04:51:24 +0000"
     },
     "done": true
   },
@@ -1842,6 +1867,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-18 04:50:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-18 04:46:46 +0000"
@@ -1851,6 +1882,12 @@
   "mcwholidays:recipes/ghost_balloon": {
     "criteria": {
       "has_planks": "2024-12-18 04:42:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-18 04:50:08 +0000"
     },
     "done": true
   },
@@ -1875,6 +1912,12 @@
   "mcwholidays:recipes/ghost": {
     "criteria": {
       "has_planks": "2024-12-18 04:42:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-18 04:50:08 +0000"
     },
     "done": true
   },
@@ -1944,15 +1987,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-18 04:50:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-18 04:43:13 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-18 04:50:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-18 04:42:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-18 04:50:08 +0000"
     },
     "done": true
   },
@@ -1977,6 +2038,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_white_tulip": "2024-12-18 04:39:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-18 04:50:08 +0000"
     },
     "done": true
   },
@@ -2070,6 +2137,18 @@
       "cooked_chicken": "2024-12-18 04:43:13 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-12-18 04:51:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-18 04:50:08 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
