@@ -1602,3 +1602,61 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Dec2024 05:08:40.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11350ms or 227 ticks behind
 [19Dec2024 05:08:59.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4381ms or 87 ticks behind
 [19Dec2024 05:09:19.406] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4452ms or 89 ticks behind
+[19Dec2024 05:09:46.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12483ms or 249 ticks behind
+[19Dec2024 05:09:53.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Stouf: Teleported Pol4ncus to Stouf]
+[19Dec2024 05:09:54.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pol4ncus has made the advancement [Quite the Renovation]
+[19Dec2024 05:10:05.866] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4012ms or 80 ticks behind
+[19Dec2024 05:10:26.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5635ms or 112 ticks behind
+[19Dec2024 05:10:43.806] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2351ms or 47 ticks behind
+[19Dec2024 05:11:01.181] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2376ms or 47 ticks behind
+[19Dec2024 05:11:18.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[19Dec2024 05:11:35.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2100ms or 42 ticks behind
+[19Dec2024 05:11:54.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19Dec2024 05:12:12.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2739ms or 54 ticks behind
+[19Dec2024 05:12:32.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[19Dec2024 05:12:51.044] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3340ms or 66 ticks behind
+[19Dec2024 05:13:07.542] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Karl'/32013, l='ServerLevel[world]', x=736.62, y=103.44, z=221.43] died, message: 'Karl went up in flames'
+[19Dec2024 05:13:09.302] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3297ms or 65 ticks behind
+[19Dec2024 05:13:30.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6569ms or 131 ticks behind
+[19Dec2024 05:13:40.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jafetox1234 moved wrongly!
+[19Dec2024 05:13:56.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10242ms or 204 ticks behind
+[19Dec2024 05:14:18.110] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7105ms or 142 ticks behind
+[19Dec2024 05:14:38.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5788ms or 115 ticks behind
+[19Dec2024 05:15:01.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7217ms or 144 ticks behind
+[19Dec2024 05:15:22.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6565ms or 131 ticks behind
+[19Dec2024 05:15:25.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leon12full has made the advancement [Knowledge of Death]
+[19Dec2024 05:15:25.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leon12full has made the advancement [Ashes 'n Bones]
+[19Dec2024 05:15:35.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leon12full has made the advancement [Knowledge raises the soul]
+[19Dec2024 05:15:40.136] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2531ms or 50 ticks behind
+[19Dec2024 05:15:43.442] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/47113, l='ServerLevel[world]', x=613.50, y=37.00, z=74.50]
+[19Dec2024 05:15:44.923] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/47140, l='ServerLevel[world]', x=614.50, y=37.00, z=70.50]
+[19Dec2024 05:15:48.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leon12full has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
+[19Dec2024 05:15:49.666] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/47175, l='ServerLevel[world]', x=613.50, y=37.00, z=74.50]
+[19Dec2024 05:15:58.172] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/47235, l='ServerLevel[world]', x=611.50, y=37.00, z=69.50]
+[19Dec2024 05:15:59.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3941ms or 78 ticks behind
+[19Dec2024 05:16:08.834] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Benedikt'/31338, l='ServerLevel[world]', x=736.38, y=103.44, z=221.43] died, message: 'Benedikt went up in flames'
+[19Dec2024 05:16:20.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6905ms or 138 ticks behind
+[19Dec2024 05:16:41.176] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5271ms or 105 ticks behind
+[19Dec2024 05:16:53.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leon12full has made the advancement [A Strange Grave Dust]
+[19Dec2024 05:17:02.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6551ms or 131 ticks behind
+[19Dec2024 05:17:13.517] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pol4ncus lost connection: Timed out
+[19Dec2024 05:17:13.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pol4ncus left the game
+[19Dec2024 05:17:13.656] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Dec2024 05:17:22.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5217ms or 104 ticks behind
+[19Dec2024 05:17:26.563] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pol4ncus[/127.92.46.209:33209] logged in with entity id 47779 at (-0.6882535533085374, 2.0, -641.4227015434614)
+[19Dec2024 05:17:26.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pol4ncus joined the game
+[19Dec2024 05:17:26.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pol4ncus has made the advancement [Mysterious Gift]
+[19Dec2024 05:17:27.224] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Pol4ncus (eae5f1b8-9e4c-3aa1-a951-4387682d488e)
+[19Dec2024 05:17:29.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leon12full has made the advancement [Chest Slayer]
+[19Dec2024 05:17:42.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4943ms or 98 ticks behind
+[19Dec2024 05:18:01.873] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4068ms or 81 ticks behind
+[19Dec2024 05:18:19.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2844ms or 56 ticks behind
+[19Dec2024 05:18:31.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Stouf: Teleported Stouf to 72.500000, 56.000000, -255.500000]
+[19Dec2024 05:18:35.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Stouf: Teleported Pol4ncus to Stouf]
+[19Dec2024 05:18:38.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3753ms or 75 ticks behind
+[19Dec2024 05:19:41.857] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pol4ncus lost connection: Timed out
+[19Dec2024 05:19:41.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pol4ncus left the game
+[19Dec2024 05:19:42.004] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Dec2024 05:19:46.272] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pol4ncus[/127.37.131.95:46597] logged in with entity id 48452 at (74.72862966201384, 66.0, -320.2275772332979)
+[19Dec2024 05:19:46.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pol4ncus joined the game
+[19Dec2024 05:19:46.550] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Pol4ncus (eae5f1b8-9e4c-3aa1-a951-4387682d488e)
