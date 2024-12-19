@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-12-19 04:55:42 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_jungle_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-19 03:31:01 +0000"
@@ -110,6 +116,12 @@
   "cfm:recipes/decorations/spruce_coffee_table": {
     "criteria": {
       "has_log": "2024-12-19 03:30:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-19 04:55:42 +0000"
     },
     "done": true
   },
@@ -504,6 +516,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-19 04:57:03 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_fishing_rod": "2024-12-19 03:28:46 +0000",
@@ -557,6 +575,24 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/oak_crate": {
+    "criteria": {
+      "has_planks": "2024-12-19 04:55:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2024-12-19 04:55:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-19 04:55:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/fridge_light": {
     "criteria": {
       "has_iron": "2024-12-19 03:41:04 +0000"
@@ -608,6 +644,12 @@
   "mcwholidays:recipes/three_potions": {
     "criteria": {
       "has_planks": "2024-12-19 04:20:21 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2024-12-19 04:57:06 +0000"
     },
     "done": true
   },
@@ -821,6 +863,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-19 04:57:03 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/obsidian/obsidian_arrow": {
     "criteria": {
       "has_req": "2024-12-19 04:33:53 +0000"
@@ -872,6 +920,12 @@
   "fairylights:recipes/fairylights/jack_o_lantern": {
     "criteria": {
       "has_iron": "2024-12-19 03:41:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-19 04:57:03 +0000"
     },
     "done": true
   },
@@ -965,6 +1019,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-19 05:00:28 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/brown_mushroom_from_fish": {
     "criteria": {
       "has_items": "2024-12-19 03:28:46 +0000"
@@ -1004,6 +1064,18 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2024-12-19 03:41:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-19 04:55:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-19 05:00:28 +0000"
     },
     "done": true
   },
@@ -1235,6 +1307,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-19 04:55:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-19 04:13:12 +0000"
@@ -1342,6 +1420,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_desk": {
+    "criteria": {
+      "has_planks": "2024-12-19 04:55:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/magenta_grill": {
     "criteria": {
       "has_iron": "2024-12-19 03:41:04 +0000"
@@ -1381,6 +1465,12 @@
   "armorplus:recipes/armorplus.weapons/crafting/shaped/lapis/lapis_arrow": {
     "criteria": {
       "has_req": "2024-12-19 04:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-19 04:55:42 +0000"
     },
     "done": true
   },
@@ -1429,6 +1519,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-12-19 03:31:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-19 04:57:03 +0000"
     },
     "done": true
   },
@@ -1543,6 +1639,12 @@
   "mca:recipes/building_blocks/headstones": {
     "criteria": {
       "has_ingredients": "2024-12-19 03:31:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_table": {
+    "criteria": {
+      "has_planks": "2024-12-19 04:55:42 +0000"
     },
     "done": true
   },
@@ -1943,6 +2045,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-12-19 04:55:42 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/lapis_lazuli_basic_shield": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-19 04:35:43 +0000"
@@ -2075,6 +2183,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-19 04:55:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-19 04:13:12 +0000"
@@ -2156,6 +2270,12 @@
   "aquaculture:recipes/food/cooked_fish_fillet_from_campfire": {
     "criteria": {
       "has_items": "2024-12-19 03:28:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-19 04:55:42 +0000"
     },
     "done": true
   },
@@ -2339,6 +2459,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_chair": {
+    "criteria": {
+      "has_planks": "2024-12-19 04:55:42 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-19 04:04:59 +0000"
@@ -2447,6 +2573,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-19 04:55:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-19 04:16:30 +0000"
@@ -2474,6 +2606,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 03:41:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-19 04:55:42 +0000"
     },
     "done": true
   },
@@ -2696,6 +2834,12 @@
   "mca:recipes/misc/whistle": {
     "criteria": {
       "has_item": "2024-12-19 03:41:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-19 04:55:42 +0000"
     },
     "done": true
   },
@@ -2994,6 +3138,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-19 04:57:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_park_bench": {
+    "criteria": {
+      "has_planks": "2024-12-19 04:55:42 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/harming_module": {
     "criteria": {
       "has_iron": "2024-12-19 03:41:04 +0000"
@@ -3075,6 +3231,18 @@
   "fairylights:recipes/fairylights/spider_light": {
     "criteria": {
       "has_iron": "2024-12-19 03:41:04 +0000"
+    },
+    "done": true
+  },
+  "musketmod:recipes/musket_upgrade_smithing_template": {
+    "criteria": {
+      "has_smithing_template": "2024-12-19 04:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-19 04:55:42 +0000"
     },
     "done": true
   },
@@ -3192,6 +3360,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2024-12-19 04:57:06 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_andesite": {
     "criteria": {
       "has_cobblestone": "2024-12-19 03:31:33 +0000"
@@ -3252,6 +3426,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2024-12-19 04:55:42 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2024-12-19 03:31:33 +0000"
@@ -3303,6 +3483,12 @@
   "cfm:recipes/decorations/magenta_trampoline": {
     "criteria": {
       "has_iron": "2024-12-19 03:41:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-19 04:55:42 +0000"
     },
     "done": true
   },
@@ -3464,6 +3650,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2024-12-19 04:57:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-19 04:57:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-19 03:46:29 +0000"
@@ -3576,6 +3774,12 @@
   "cfm:recipes/decorations/red_grill": {
     "criteria": {
       "has_iron": "2024-12-19 03:41:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-19 05:00:28 +0000"
     },
     "done": true
   },

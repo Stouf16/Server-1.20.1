@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 04:55:19 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/incandescent_light": {
     "criteria": {
       "has_torch": "2024-12-19 03:59:55 +0000"
@@ -128,6 +134,12 @@
   "armorplus:recipes/armorplus.weapons/crafting/shaped/emerald/emerald_sword": {
     "criteria": {
       "has_req": "2024-12-19 03:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 04:55:19 +0000"
     },
     "done": true
   },
@@ -227,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 04:55:19 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2024-12-19 03:45:21 +0000"
@@ -236,6 +254,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 04:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 04:55:19 +0000"
     },
     "done": true
   },
@@ -260,6 +284,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-12-19 03:50:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 04:55:19 +0000"
     },
     "done": true
   },
@@ -296,6 +326,12 @@
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2024-12-19 03:47:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 04:55:19 +0000"
     },
     "done": true
   },
@@ -523,6 +559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 04:55:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 04:17:30 +0000"
@@ -532,6 +574,12 @@
   "cfm:recipes/decorations/spruce_desk": {
     "criteria": {
       "has_log": "2024-12-19 03:41:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 04:55:19 +0000"
     },
     "done": true
   },
@@ -754,6 +802,12 @@
   "cfm:recipes/decorations/black_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-19 04:17:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 04:55:19 +0000"
     },
     "done": true
   },
@@ -994,6 +1048,12 @@
   "fairylights:recipes/fairylights/flower_light": {
     "criteria": {
       "has_iron": "2024-12-19 04:17:30 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm/monster_plains_cave_farm": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 04:55:19 +0000"
     },
     "done": true
   },
@@ -1254,6 +1314,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 04:55:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-12-19 03:40:07 +0000"
@@ -1284,9 +1350,21 @@
     },
     "done": true
   },
+  "spartanshields:recipes/golden_tower_shield": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 04:55:19 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_park_bench": {
     "criteria": {
       "has_log": "2024-12-19 03:41:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 04:55:19 +0000"
     },
     "done": true
   },
@@ -1299,6 +1377,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-12-19 04:17:51 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shaped/enhanced/en_gold": {
+    "criteria": {
+      "has_req": "2024-12-19 04:55:19 +0000"
     },
     "done": true
   },
@@ -1498,6 +1582,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-19 03:50:28 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/gold_fillet_knife": {
+    "criteria": {
+      "has_items": "2024-12-19 04:55:19 +0000"
     },
     "done": true
   },
@@ -2035,6 +2125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 04:55:19 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/candle_lantern_light": {
     "criteria": {
       "has_iron": "2024-12-19 04:17:30 +0000"
@@ -2044,6 +2140,12 @@
   "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-19 04:17:35 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm_template/tier1_mob_farm_template": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 04:55:19 +0000"
     },
     "done": true
   },
@@ -2548,6 +2650,12 @@
   "securitycraft:recipes/misc/reinforced_cherry_fence": {
     "criteria": {
       "has_stick": "2024-12-19 03:40:07 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/golden_basic_shield": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 04:55:19 +0000"
     },
     "done": true
   },
@@ -3065,6 +3173,12 @@
     },
     "done": false
   },
+  "travelersbackpack:recipes/misc/gold_tier_upgrade": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 04:55:19 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/emerald/emerald_pickaxe": {
     "criteria": {
       "has_req": "2024-12-19 03:40:07 +0000"
@@ -3098,6 +3212,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-19 03:50:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 04:55:19 +0000"
     },
     "done": true
   },
@@ -3281,6 +3401,12 @@
   "fairylights:recipes/fairylights/triangle_pennant": {
     "criteria": {
       "has_string": "2024-12-19 04:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-19 04:55:19 +0000"
     },
     "done": true
   },

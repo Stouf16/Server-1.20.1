@@ -1539,3 +1539,66 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Dec2024 04:58:25.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Stouf: Set own game mode to Creative Mode]
 [19Dec2024 04:58:29.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Stouf: Set own game mode to Survival Mode]
 [19Dec2024 04:58:42.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3217ms or 64 ticks behind
+[19Dec2024 04:59:04.045] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6940ms or 138 ticks behind
+[19Dec2024 04:59:11.504] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Dec2024 04:59:11.642] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Dec2024 04:59:11.730] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Dec2024 04:59:11.869] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Dec2024 04:59:11.993] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Dec2024 04:59:12.243] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Dec2024 04:59:12.486] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Dec2024 04:59:12.724] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Dec2024 04:59:13.008] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Dec2024 04:59:13.327] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Dec2024 04:59:13.703] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Dec2024 04:59:14.055] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Dec2024 04:59:14.319] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Dec2024 04:59:14.532] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Dec2024 04:59:14.726] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Dec2024 04:59:14.887] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Dec2024 04:59:15.105] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Dec2024 04:59:15.337] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Dec2024 04:59:20.174] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Dec2024 04:59:20.583] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Dec2024 04:59:20.849] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Dec2024 04:59:21.150] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Dec2024 04:59:21.345] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Dec2024 04:59:21.487] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Dec2024 04:59:21.703] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Dec2024 04:59:21.881] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Dec2024 04:59:22.016] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Dec2024 04:59:22.208] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Dec2024 04:59:22.352] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Dec2024 04:59:22.492] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Dec2024 04:59:36.003] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16998ms or 339 ticks behind
+[19Dec2024 05:00:00.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10017ms or 200 ticks behind
+[19Dec2024 05:00:21.841] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5887ms or 117 ticks behind
+[19Dec2024 05:00:42.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5391ms or 107 ticks behind
+[19Dec2024 05:01:03.653] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6498ms or 129 ticks behind
+[19Dec2024 05:01:25.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7189ms or 143 ticks behind
+[19Dec2024 05:01:47.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7143ms or 142 ticks behind
+[19Dec2024 05:02:14.369] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11515ms or 230 ticks behind
+[19Dec2024 05:02:39.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9752ms or 195 ticks behind
+[19Dec2024 05:03:02.389] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8285ms or 165 ticks behind
+[19Dec2024 05:03:25.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8173ms or 163 ticks behind
+[19Dec2024 05:03:58.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17750ms or 355 ticks behind
+[19Dec2024 05:04:24.997] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-253, y=31, z=-608}
+[19Dec2024 05:04:25.450] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-259, y=32, z=-606}
+[19Dec2024 05:04:25.450] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-260, y=32, z=-606}
+[19Dec2024 05:04:33.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20708ms or 414 ticks behind
+[19Dec2024 05:05:01.044] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12089ms or 241 ticks behind
+[19Dec2024 05:05:08.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] toñito
+[19Dec2024 05:05:27.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11533ms or 230 ticks behind
+[19Dec2024 05:05:51.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9227ms or 184 ticks behind
+[19Dec2024 05:06:18.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12139ms or 242 ticks behind
+[19Dec2024 05:06:44.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10468ms or 209 ticks behind
+[19Dec2024 05:07:10.703] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11448ms or 228 ticks behind
+[19Dec2024 05:07:31.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6343ms or 126 ticks behind
+[19Dec2024 05:07:52.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5995ms or 119 ticks behind
+[19Dec2024 05:08:14.289] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6385ms or 127 ticks behind
+[19Dec2024 05:08:24.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jafetox1234 moved wrongly!
+[19Dec2024 05:08:24.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jafetox1234 moved wrongly!
+[19Dec2024 05:08:25.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jafetox1234 moved wrongly!
+[19Dec2024 05:08:40.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11350ms or 227 ticks behind
+[19Dec2024 05:08:59.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4381ms or 87 ticks behind
+[19Dec2024 05:09:19.406] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4452ms or 89 ticks behind

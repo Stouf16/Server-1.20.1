@@ -304,6 +304,7 @@
       "minecraft:river": "2024-12-19 04:41:24 +0000",
       "minecraft:snowy_plains": "2024-12-19 03:34:04 +0000",
       "minecraft:snowy_taiga": "2024-12-19 03:29:56 +0000",
+      "minecraft:dripstone_caves": "2024-12-19 04:59:39 +0000",
       "minecraft:forest": "2024-12-19 04:20:56 +0000",
       "minecraft:ice_spikes": "2024-12-19 04:35:57 +0000",
       "minecraft:meadow": "2024-12-19 04:43:48 +0000",
@@ -1323,7 +1324,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-19 04:56:39 +0000",
       "minecraft:stray": "2024-12-19 04:01:29 +0000",
+      "minecraft:enderman": "2024-12-19 04:57:26 +0000",
       "minecraft:zombie": "2024-12-19 03:41:03 +0000"
     },
     "done": false
@@ -2618,6 +2621,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-19 04:56:28 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/redstone/redstone_arrow": {
     "criteria": {
       "has_req": "2024-12-19 04:52:49 +0000"
@@ -2657,6 +2666,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-19 04:22:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-19 05:00:58 +0000"
     },
     "done": true
   },
@@ -2774,6 +2789,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-19 04:56:28 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-19 04:26:44 +0000"
@@ -2795,6 +2816,12 @@
   "cfm:recipes/decorations/cyan_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-19 04:49:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-12-19 05:00:32 +0000"
     },
     "done": true
   },
@@ -2912,6 +2939,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-19 04:59:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-19 04:26:44 +0000"
@@ -2927,6 +2960,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-19 04:22:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-19 04:59:45 +0000"
     },
     "done": true
   },
@@ -3068,6 +3107,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
+    "criteria": {
+      "has_gray_wool": "2024-12-19 05:00:32 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-19 05:00:32 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/pink_cooler": {
     "criteria": {
       "has_chest": "2024-12-19 04:49:25 +0000"
@@ -3137,6 +3188,18 @@
   "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-19 04:26:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-19 05:00:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-12-19 05:00:32 +0000"
     },
     "done": true
   },
@@ -3263,6 +3326,12 @@
   "mcwholidays:recipes/bat_wall_deco_1": {
     "criteria": {
       "has_planks": "2024-12-19 04:19:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-12-19 05:00:32 +0000"
     },
     "done": true
   },
@@ -3530,6 +3599,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.items/crafting/shaped/storage/lava_crystal": {
+    "criteria": {
+      "has_req": "2024-12-19 04:59:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-19 04:17:58 +0000"
@@ -3686,9 +3761,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-19 05:00:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-19 04:26:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-19 04:56:28 +0000"
     },
     "done": true
   },
@@ -3731,6 +3818,12 @@
   "fairylights:recipes/fairylights/square_pennant": {
     "criteria": {
       "has_paper": "2024-12-19 04:19:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-19 04:57:30 +0000"
     },
     "done": true
   },
@@ -3791,6 +3884,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-12-19 04:30:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-19 04:56:28 +0000"
     },
     "done": true
   },
@@ -3857,6 +3956,12 @@
   "cfm:recipes/decorations/spruce_mail_box": {
     "criteria": {
       "has_chest": "2024-12-19 04:49:25 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_catcher/mystic_binding_crystal": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-19 04:57:30 +0000"
     },
     "done": true
   },
@@ -3989,6 +4094,12 @@
   "securitycraft:recipes/misc/cage_trap": {
     "criteria": {
       "has_redstone": "2024-12-19 04:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-19 04:59:45 +0000"
     },
     "done": true
   },
