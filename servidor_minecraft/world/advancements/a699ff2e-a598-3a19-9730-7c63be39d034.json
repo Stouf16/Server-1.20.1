@@ -4341,6 +4341,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2024-12-19 17:52:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-19 17:01:04 +0000"
@@ -4479,6 +4485,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/obsidian/obsidian_arrow": {
+    "criteria": {
+      "has_req": "2024-12-19 17:52:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-19 17:00:54 +0000"
@@ -4575,6 +4587,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.blocks/crafting/shaped/storage/block_lava_crystal": {
+    "criteria": {
+      "has_req": "2024-12-19 18:05:07 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_black_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-19 17:00:54 +0000"
@@ -4650,6 +4668,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-19 17:00:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-19 17:52:22 +0000"
     },
     "done": true
   },
@@ -4899,6 +4923,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2024-12-19 17:52:22 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/enderman_smithing": {
     "criteria": {
       "has_enderman": "2024-12-19 16:02:25 +0000"
@@ -4992,6 +5022,12 @@
   "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-19 17:00:54 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shapeless/storage/lava_shard_to_item_adv": {
+    "criteria": {
+      "has_req": "2024-12-19 18:05:07 +0000"
     },
     "done": true
   },
@@ -5223,6 +5259,18 @@
     },
     "done": true
   },
+  "obsidianboat:recipes/transportation/obsidian_boat": {
+    "criteria": {
+      "has_obsidian": "2024-12-19 17:52:22 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shapeless/obsidian_stick_adv": {
+    "criteria": {
+      "has_req": "2024-12-19 17:52:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-19 17:00:54 +0000"
@@ -5250,6 +5298,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2024-12-19 16:01:25 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/building_blocks/crafting/shapeless/obsidian_stick_adv": {
+    "criteria": {
+      "has_req": "2024-12-19 17:52:22 +0000"
     },
     "done": true
   },
@@ -5337,6 +5391,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.blocks/crafting/shaped/storage/compressed_obsidian": {
+    "criteria": {
+      "has_req": "2024-12-19 17:52:22 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.armors/crafting/shaped/redstone/redstone_leggings": {
     "criteria": {
       "has_req": "2024-12-19 16:52:40 +0000"
@@ -5346,6 +5406,12 @@
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-19 17:00:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-19 17:52:22 +0000"
     },
     "done": true
   },
