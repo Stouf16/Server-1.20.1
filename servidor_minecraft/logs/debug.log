@@ -6891,3 +6891,22 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Dec2024 03:46:00.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pol4ncus has made the advancement [Getting an Upgrade]
 [19Dec2024 03:46:26.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pol4ncus has made the advancement [Monster Hunter]
 [19Dec2024 03:46:26.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pol4ncus has made the advancement [A Strange Grave Dust]
+[19Dec2024 03:46:56.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[19Dec2024 03:46:59.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stouf has made the advancement [A Strange Grave Dust]
+[19Dec2024 03:48:21.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[19Dec2024 03:48:50.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stouf has made the advancement [Suit Up]
+[19Dec2024 03:49:06.673] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[19Dec2024 03:49:14.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 03:49:14.401] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 03:50:28.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jafetox1234 has made the advancement [Stone Age]
+[19Dec2024 03:51:54.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pol4ncus has made the advancement [Acquire Hardware]
+[19Dec2024 03:52:04.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pol4ncus has made the advancement [Isn't It Iron Pick]
+[19Dec2024 03:52:06.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pol4ncus has made the advancement [Suit Up]
+[19Dec2024 03:52:12.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jafetox1234 has made the advancement [Getting an Upgrade]
+[19Dec2024 03:54:14.337] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 03:54:14.359] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 03:54:55.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pol4ncus has made the advancement [Hot Stuff]
+[19Dec2024 03:55:33.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jafetox1234 has made the advancement [Suit Up]
+[19Dec2024 03:56:04.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jafetox1234 has made the advancement [Isn't It Iron Pick]
+[19Dec2024 03:56:19.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Stouf: Set own game mode to Spectator Mode]
+[19Dec2024 03:56:56.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Stouf: Set own game mode to Survival Mode]
