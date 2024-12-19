@@ -4626,9 +4626,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/display_case": {
+  "tombstone:adventure/bone_crusher": {
     "criteria": {
-      "has_item_frame": "2024-12-19 05:23:28 +0000"
+      "coded_trigger": "2024-12-19 05:22:48 +0000"
     },
     "done": true
   },
@@ -4638,21 +4638,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glow_item_frame": {
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-19 05:23:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/display_case": {
     "criteria": {
       "has_item_frame": "2024-12-19 05:23:28 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/bone_crusher": {
+  "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
-      "coded_trigger": "2024-12-19 05:22:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2024-12-19 05:23:09 +0000"
+      "has_item_frame": "2024-12-19 05:23:28 +0000"
     },
     "done": true
   },
