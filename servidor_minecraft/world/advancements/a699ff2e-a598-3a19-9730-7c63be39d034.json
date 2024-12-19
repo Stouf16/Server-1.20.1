@@ -635,6 +635,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-19 04:05:35 +0000",
       "cooked_beef": "2024-12-19 16:48:13 +0000",
+      "baked_potato": "2024-12-19 17:31:04 +0000",
       "cooked_cod": "2024-12-19 04:32:17 +0000",
       "bread": "2024-12-19 03:40:50 +0000",
       "melon_slice": "2024-12-19 16:48:07 +0000",
@@ -4309,6 +4310,18 @@
     },
     "done": true
   },
+  "mcwholidays:recipes/single_potion": {
+    "criteria": {
+      "has_planks": "2024-12-19 17:37:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_axe": "2024-12-19 17:37:28 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-19 17:00:54 +0000"
@@ -4396,6 +4409,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2024-12-19 16:42:08 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/three_potions": {
+    "criteria": {
+      "has_planks": "2024-12-19 17:37:26 +0000"
     },
     "done": true
   },
@@ -4609,6 +4628,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/horse_smithing": {
+    "criteria": {
+      "has_horse": "2024-12-19 17:34:53 +0000"
+    },
+    "done": true
+  },
   "easy_mob_farm:recipes/mob_farm_template/tier3_mob_farm_template": {
     "criteria": {
       "has_glass": "2024-12-19 17:00:54 +0000"
@@ -4630,6 +4655,12 @@
   "armorplus:recipes/armorplus.weapons/crafting/shaped/lapis/lapis_arrow": {
     "criteria": {
       "has_req": "2024-12-19 16:13:34 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/pair_of_potions": {
+    "criteria": {
+      "has_planks": "2024-12-19 17:37:26 +0000"
     },
     "done": true
   },
@@ -4858,6 +4889,12 @@
   "securitycraft:recipes/building_blocks/reinforced_red_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-19 17:00:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_axe": "2024-12-19 17:37:28 +0000"
     },
     "done": true
   },

@@ -307,7 +307,9 @@
       "minecraft:snowy_plains": "2024-12-19 03:34:04 +0000",
       "minecraft:snowy_taiga": "2024-12-19 03:29:56 +0000",
       "minecraft:dripstone_caves": "2024-12-19 04:59:39 +0000",
+      "minecraft:grove": "2024-12-19 17:34:14 +0000",
       "minecraft:forest": "2024-12-19 04:20:56 +0000",
+      "minecraft:lush_caves": "2024-12-19 17:28:09 +0000",
       "minecraft:ice_spikes": "2024-12-19 04:35:57 +0000",
       "minecraft:frozen_peaks": "2024-12-19 17:25:46 +0000",
       "minecraft:meadow": "2024-12-19 04:43:48 +0000",
@@ -1328,6 +1330,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-19 04:56:39 +0000",
+      "minecraft:spider": "2024-12-19 17:31:45 +0000",
       "minecraft:creeper": "2024-12-19 05:22:42 +0000",
       "minecraft:stray": "2024-12-19 04:01:29 +0000",
       "minecraft:enderman": "2024-12-19 04:57:26 +0000",
@@ -4653,6 +4656,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-19 17:28:42 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_grave_key": {
     "criteria": {
       "has_ingredient": "2024-12-19 16:50:42 +0000"
@@ -4716,6 +4725,12 @@
   "armorplus:recipes/armorplus.items/crafting/shaped/ender_dragon/ender_dragon_bow_base_alt": {
     "criteria": {
       "has_req": "2024-12-19 16:48:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-19 17:31:26 +0000"
     },
     "done": true
   },
@@ -4815,6 +4830,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-19 17:29:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_upgraded_gate": {
     "criteria": {
       "has_log": "2024-12-19 17:17:35 +0000"
@@ -4836,6 +4857,18 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-19 16:50:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-19 17:31:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-19 17:29:17 +0000"
     },
     "done": true
   },
@@ -5121,6 +5154,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-19 17:29:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_coffee_table": {
     "criteria": {
       "has_planks": "2024-12-19 17:17:35 +0000"
@@ -5154,6 +5193,12 @@
   "armorplus:recipes/armorplus.weapons/crafting/shaped/coal/coal_bow": {
     "criteria": {
       "has_req": "2024-12-19 16:48:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-19 17:31:49 +0000"
     },
     "done": true
   },
@@ -5208,6 +5253,12 @@
   "cfm:recipes/decorations/stripped_oak_chair": {
     "criteria": {
       "has_planks": "2024-12-19 17:17:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-19 17:29:17 +0000"
     },
     "done": true
   },
@@ -5280,6 +5331,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-12-19 16:48:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-19 17:29:17 +0000"
     },
     "done": true
   },
