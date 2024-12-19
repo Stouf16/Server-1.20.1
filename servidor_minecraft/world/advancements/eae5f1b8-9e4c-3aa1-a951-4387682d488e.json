@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/redstone/redstone_helmet": {
+    "criteria": {
+      "has_req": "2024-12-19 04:13:58 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_coffee_table": {
     "criteria": {
       "has_log": "2024-12-19 03:44:37 +0000"
@@ -526,6 +532,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 04:05:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2024-12-19 03:45:35 +0000"
@@ -637,6 +649,12 @@
   "travelersbackpack:recipes/misc/iron": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 03:51:54 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/redstone/redstone_chestplate": {
+    "criteria": {
+      "has_req": "2024-12-19 04:13:58 +0000"
     },
     "done": true
   },
@@ -835,6 +853,12 @@
   "aquaculture:recipes/tools/wooden_fillet_knife": {
     "criteria": {
       "has_items": "2024-12-19 03:45:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2024-12-19 04:13:58 +0000"
     },
     "done": true
   },
@@ -1306,6 +1330,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/redstone/redstone_boots": {
+    "criteria": {
+      "has_req": "2024-12-19 04:13:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-12-19 04:02:30 +0000"
@@ -1423,6 +1453,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 03:51:54 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/redstone/redstone_boots_alt": {
+    "criteria": {
+      "has_req": "2024-12-19 04:13:58 +0000"
     },
     "done": true
   },
@@ -1600,6 +1636,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/redstone/redstone_helmet_alt": {
+    "criteria": {
+      "has_req": "2024-12-19 04:13:58 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/redstone/redstone_battle_axe": {
     "criteria": {
       "has_req": "2024-12-19 03:45:35 +0000"
@@ -1609,6 +1651,12 @@
   "cfm:recipes/decorations/spruce_blinds": {
     "criteria": {
       "has_log": "2024-12-19 03:44:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 04:06:12 +0000"
     },
     "done": true
   },
@@ -1753,6 +1801,12 @@
   "mca:recipes/misc/needle_and_thread": {
     "criteria": {
       "has_item": "2024-12-19 03:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-19 04:13:58 +0000"
     },
     "done": true
   },
@@ -2293,6 +2347,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-19 04:14:35 +0000",
       "minecraft:frozen_river": "2024-12-19 03:47:21 +0000",
       "minecraft:snowy_plains": "2024-12-19 03:42:07 +0000",
       "minecraft:snowy_taiga": "2024-12-19 03:41:56 +0000"
@@ -2348,6 +2403,12 @@
     },
     "done": false
   },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/redstone/redstone_leggings": {
+    "criteria": {
+      "has_req": "2024-12-19 04:13:58 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/lime_grill": {
     "criteria": {
       "has_iron": "2024-12-19 03:51:54 +0000"
@@ -2376,6 +2437,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2024-12-19 03:44:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 04:05:59 +0000"
     },
     "done": true
   },
