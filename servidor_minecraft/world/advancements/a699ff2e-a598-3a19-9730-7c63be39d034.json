@@ -302,7 +302,8 @@
       "minecraft:frozen_river": "2024-12-19 03:45:55 +0000",
       "minecraft:snowy_plains": "2024-12-19 03:37:24 +0000",
       "minecraft:snowy_taiga": "2024-12-19 03:36:55 +0000",
-      "minecraft:ice_spikes": "2024-12-19 04:12:54 +0000"
+      "minecraft:ice_spikes": "2024-12-19 04:12:54 +0000",
+      "minecraft:plains": "2024-12-19 16:55:36 +0000"
     },
     "done": false
   },
@@ -633,8 +634,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-19 04:05:35 +0000",
+      "cooked_beef": "2024-12-19 16:48:13 +0000",
       "cooked_cod": "2024-12-19 04:32:17 +0000",
       "bread": "2024-12-19 03:40:50 +0000",
+      "melon_slice": "2024-12-19 16:48:07 +0000",
       "carrot": "2024-12-19 05:33:31 +0000"
     },
     "done": false
@@ -4204,6 +4207,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/redstone/redstone_helmet": {
+    "criteria": {
+      "has_req": "2024-12-19 16:52:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-19 16:13:34 +0000"
@@ -4240,6 +4249,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-19 16:49:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-19 16:50:29 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-19 16:34:08 +0000"
@@ -4273,6 +4294,12 @@
   "securitycraft:recipes/building_blocks/secret_dark_oak_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-19 16:34:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-19 16:50:29 +0000"
     },
     "done": true
   },
@@ -4330,6 +4357,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/redstone/redstone_chestplate": {
+    "criteria": {
+      "has_req": "2024-12-19 16:52:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-19 15:51:16 +0000"
@@ -4351,6 +4384,12 @@
   "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-19 16:34:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2024-12-19 16:52:40 +0000"
     },
     "done": true
   },
@@ -4450,6 +4489,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/redstone/redstone_boots": {
+    "criteria": {
+      "has_req": "2024-12-19 16:52:40 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_sign_item": {
     "criteria": {
       "has_sign": "2024-12-19 16:34:08 +0000"
@@ -4474,6 +4519,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2024-12-19 16:50:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-19 16:13:34 +0000"
@@ -4483,6 +4534,18 @@
   "securitycraft:recipes/tools/universal_key_changer": {
     "criteria": {
       "has_redstone": "2024-12-19 16:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-19 16:50:29 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/redstone/redstone_boots_alt": {
+    "criteria": {
+      "has_req": "2024-12-19 16:52:40 +0000"
     },
     "done": true
   },
@@ -4504,6 +4567,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-19 16:55:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2024-12-19 16:01:25 +0000"
@@ -4516,9 +4585,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-19 16:49:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-19 16:50:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-12-19 16:37:52 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/redstone/redstone_helmet_alt": {
+    "criteria": {
+      "has_req": "2024-12-19 16:52:40 +0000"
     },
     "done": true
   },
@@ -4546,6 +4633,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-19 16:50:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-19 16:50:29 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_piston": {
     "criteria": {
       "has_redstone": "2024-12-19 16:01:25 +0000"
@@ -4561,6 +4660,12 @@
   "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
     "criteria": {
       "has_sign": "2024-12-19 16:34:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-19 16:52:40 +0000"
     },
     "done": true
   },
@@ -4660,6 +4765,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-19 16:55:36 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/lapis": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-19 16:13:34 +0000"
@@ -4675,6 +4786,18 @@
   "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
     "criteria": {
       "has_sign": "2024-12-19 16:34:08 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-19 16:50:29 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.armors/crafting/shaped/redstone/redstone_leggings": {
+    "criteria": {
+      "has_req": "2024-12-19 16:52:40 +0000"
     },
     "done": true
   },
