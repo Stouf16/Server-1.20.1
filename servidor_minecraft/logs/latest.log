@@ -1255,3 +1255,44 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Dec2024 04:24:44.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2166ms or 43 ticks behind
 [19Dec2024 04:26:09.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jafetox1234 has made the advancement [Knowledge of Death]
 [19Dec2024 04:26:09.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jafetox1234 has made the advancement [Ashes 'n Bones]
+[19Dec2024 04:27:38.926] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[19Dec2024 04:27:49.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stouf has made the advancement [Diamonds!]
+[19Dec2024 04:27:56.228] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2324ms or 46 ticks behind
+[19Dec2024 04:28:11.203] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Menka}[style={}] has been infected
+[19Dec2024 04:29:04.612] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Nikola}[style={}] has been infected
+[19Dec2024 04:29:44.588] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[19Dec2024 04:30:05.045] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5490ms or 109 ticks behind
+[19Dec2024 04:30:23.491] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3486ms or 69 ticks behind
+[19Dec2024 04:30:52.718] [Server thread/WARN] [tombstone/]: The death event of the player Stouf was canceled by another mod
+[19Dec2024 04:30:52.720] [Server thread/INFO] [tombstone/]: The player Stouf has successfully been saved
+[19Dec2024 04:31:02.352] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Vesna}[style={}] has been infected
+[19Dec2024 04:31:06.409] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[19Dec2024 04:31:17.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Stouf: Teleported Pol4ncus to Stouf]
+[19Dec2024 04:31:44.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[19Dec2024 04:31:46.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leon12full moved too quickly! 8.264599982743505,-2.2046003784434305,-5.624538355647871
+[19Dec2024 04:32:07.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8022ms or 160 ticks behind
+[19Dec2024 04:32:38.497] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2093ms or 41 ticks behind
+[19Dec2024 04:32:56.226] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2772ms or 55 ticks behind
+[19Dec2024 04:33:27.428] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[19Dec2024 04:33:49.758] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7353ms or 147 ticks behind
+[19Dec2024 04:33:53.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stouf has made the advancement [Ice Bucket Challenge]
+[19Dec2024 04:34:12.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jafetox1234 has made the advancement [Magic Writing]
+[19Dec2024 04:34:13.767] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9012ms or 180 ticks behind
+[19Dec2024 04:34:38.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10145ms or 202 ticks behind
+[19Dec2024 04:35:01.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7999ms or 159 ticks behind
+[19Dec2024 04:35:16.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jafetox1234 has made the advancement [Diamonds!]
+[19Dec2024 04:35:31.345] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14540ms or 290 ticks behind
+[19Dec2024 04:35:59.144] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12840ms or 256 ticks behind
+[19Dec2024 04:36:20.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6287ms or 125 ticks behind
+[19Dec2024 04:36:37.707] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2352ms or 47 ticks behind
+[19Dec2024 04:36:56.313] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-85, y=-11, z=72}
+[19Dec2024 04:36:56.446] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-84, y=-11, z=76}
+[19Dec2024 04:36:56.446] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-87, y=-11, z=76}
+[19Dec2024 04:36:56.447] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-85, y=-11, z=81}
+[19Dec2024 04:36:59.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6481ms or 129 ticks behind
+[19Dec2024 04:37:11.358] [Server thread/WARN] [tombstone/]: The death event of the player Stouf was canceled by another mod
+[19Dec2024 04:37:11.371] [Server thread/INFO] [tombstone/]: The player Stouf has successfully been saved
+[19Dec2024 04:37:16.676] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2521ms or 50 ticks behind
+[19Dec2024 04:37:31.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Stouf: Teleported Stouf to Pol4ncus]
+[19Dec2024 04:37:49.869] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[19Dec2024 04:37:50.334] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-76, y=-4, z=88}
