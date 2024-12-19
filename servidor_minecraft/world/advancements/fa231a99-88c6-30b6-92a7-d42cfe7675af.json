@@ -307,6 +307,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-19 04:02:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-19 03:31:33 +0000"
@@ -315,6 +321,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2024-12-19 04:01:54 +0000",
       "minecraft:creeper": "2024-12-19 03:46:28 +0000",
       "minecraft:stray": "2024-12-19 03:46:36 +0000",
       "minecraft:zombie": "2024-12-19 03:45:28 +0000"
@@ -390,6 +397,12 @@
   "fairylights:recipes/fairylights/garland": {
     "criteria": {
       "has_iron": "2024-12-19 03:41:04 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/loot_enhancement": {
+    "criteria": {
+      "has_emerald": "2024-12-19 03:59:50 +0000"
     },
     "done": true
   },
@@ -1437,6 +1450,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-19 03:59:50 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/luck_enhancement": {
+    "criteria": {
+      "has_emerald": "2024-12-19 03:59:50 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/iron_basic_shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 03:41:04 +0000"
@@ -1518,6 +1543,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-12-19 03:46:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2024-12-19 03:59:50 +0000"
     },
     "done": true
   },
@@ -2085,6 +2116,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-19 03:46:29 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/emerald/emerald_arrow": {
+    "criteria": {
+      "has_req": "2024-12-19 03:59:50 +0000"
     },
     "done": true
   },

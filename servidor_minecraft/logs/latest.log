@@ -1197,3 +1197,28 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [19Dec2024 03:56:04.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jafetox1234 has made the advancement [Isn't It Iron Pick]
 [19Dec2024 03:56:19.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Stouf: Set own game mode to Spectator Mode]
 [19Dec2024 03:56:56.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Stouf: Set own game mode to Survival Mode]
+[19Dec2024 04:02:09.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pol4ncus has made the advancement [Not Today, Thank You]
+[19Dec2024 04:02:43.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stouf has made the advancement [Sweet Dreams]
+[19Dec2024 04:02:56.232] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player Jafetox1234 just tried to change non-editable sign
+[19Dec2024 04:03:06.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jafetox1234 has made the advancement [Sweet Dreams]
+[19Dec2024 04:03:27.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jafetox1234> duerme
+[19Dec2024 04:03:28.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jafetox1234> peeee
+[19Dec2024 04:03:30.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Stouf> zzzzz
+[19Dec2024 04:03:44.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pol4ncus has made the advancement [Sweet Dreams]
+[19Dec2024 04:04:24.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leon12full lost connection: Disconnected
+[19Dec2024 04:04:24.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leon12full left the game
+[19Dec2024 04:04:37.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jafetox1234> zzzzzzzz
+[19Dec2024 04:04:47.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stouf has made the advancement [Knowledge of Death]
+[19Dec2024 04:04:47.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stouf has made the advancement [Ashes 'n Bones]
+[19Dec2024 04:04:55.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[19Dec2024 04:04:59.535] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Leon12full[/127.180.34.80:56299] logged in with entity id 11510 at (47.16971502305522, 66.0, -302.66210796498643)
+[19Dec2024 04:04:59.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leon12full joined the game
+[19Dec2024 04:04:59.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stouf has made the advancement [Knowledge raises the soul]
+[19Dec2024 04:05:00.277] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Leon12full (5ea42daa-f6ca-3744-9609-a5fe1291293f)
+[19Dec2024 04:05:17.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6066ms or 121 ticks behind
+[19Dec2024 04:05:37.767] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Biljana'/1787, l='ServerLevel[world]', x=138.59, y=64.66, z=-279.04] died, message: 'Biljana tried to swim in lava'
+[19Dec2024 04:05:41.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[19Dec2024 04:05:43.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jafetox1234 has made the advancement [Not Today, Thank You]
+[19Dec2024 04:05:59.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pol4ncus has made the advancement [Knowledge of Death]
+[19Dec2024 04:05:59.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pol4ncus has made the advancement [Ashes 'n Bones]
+[19Dec2024 04:06:12.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pol4ncus has made the advancement [Knowledge raises the soul]

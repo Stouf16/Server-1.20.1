@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-19 03:58:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-19 03:31:43 +0000"
@@ -38,6 +44,12 @@
   "securitycraft:recipes/redstone/reinforced_jungle_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-19 03:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2024-12-19 03:56:18 +0000"
     },
     "done": true
   },
@@ -221,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-19 03:58:09 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/obsidian_basic_shield": {
     "criteria": {
       "has_obsidian": "2024-12-19 03:43:50 +0000"
@@ -351,6 +369,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:stray": "2024-12-19 04:01:29 +0000",
       "minecraft:zombie": "2024-12-19 03:41:03 +0000"
     },
     "done": false
@@ -445,6 +464,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-19 03:58:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/whitelist_module": {
     "criteria": {
       "has_iron": "2024-12-19 03:43:39 +0000"
@@ -499,6 +524,12 @@
     },
     "done": true
   },
+  "mcwholidays:recipes/sitting_skeleton": {
+    "criteria": {
+      "has_planks": "2024-12-19 03:56:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_cabinet": {
     "criteria": {
       "has_log": "2024-12-19 03:30:57 +0000"
@@ -526,6 +557,12 @@
   "easy_mob_farm:recipes/upgrade/slot/small_slot_upgrade": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 03:43:39 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2024-12-19 03:58:09 +0000"
     },
     "done": true
   },
@@ -811,6 +848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-19 03:58:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/sonic_security_system": {
     "criteria": {
       "has_stick": "2024-12-19 03:31:43 +0000"
@@ -1063,6 +1106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-19 03:58:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-19 03:32:14 +0000"
@@ -1276,6 +1325,12 @@
   "aquaculture:recipes/aquaculture/worm_farm": {
     "criteria": {
       "has_items": "2024-12-19 03:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-19 03:58:09 +0000"
     },
     "done": true
   },
@@ -1687,6 +1742,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-19 03:56:16 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
     "criteria": {
       "has_book": "2024-12-19 03:36:39 +0000"
@@ -1813,6 +1874,12 @@
     },
     "done": true
   },
+  "jeg:root": {
+    "criteria": {
+      "Item": "2024-12-19 04:03:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_upgraded_gate": {
     "criteria": {
       "has_log": "2024-12-19 03:30:57 +0000"
@@ -1849,6 +1916,12 @@
     },
     "done": true
   },
+  "jeg:scrap": {
+    "criteria": {
+      "Item": "2024-12-19 04:03:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_cherry_fence": {
     "criteria": {
       "has_stick": "2024-12-19 03:31:43 +0000"
@@ -1882,6 +1955,12 @@
   "aquaculture:recipes/misc/jellyfish_to_slimeball": {
     "criteria": {
       "has_items": "2024-12-19 03:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2024-12-19 03:56:18 +0000"
     },
     "done": true
   },
@@ -2078,6 +2157,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2024-12-19 03:56:16 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/spider_light": {
     "criteria": {
       "has_iron": "2024-12-19 03:43:39 +0000"
@@ -2210,6 +2295,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2024-12-19 03:56:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2024-12-19 03:32:14 +0000"
@@ -2225,6 +2316,12 @@
   "cfm:recipes/decorations/stripped_spruce_kitchen_drawer": {
     "criteria": {
       "has_log": "2024-12-19 03:30:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2024-12-19 03:56:18 +0000"
     },
     "done": true
   },
@@ -2340,6 +2437,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2024-12-19 03:59:35 +0000",
       "bread": "2024-12-19 03:35:36 +0000"
     },
     "done": false

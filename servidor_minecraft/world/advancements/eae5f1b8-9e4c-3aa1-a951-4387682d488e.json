@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-19 04:02:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
     "criteria": {
       "has_log": "2024-12-19 03:44:37 +0000"
@@ -349,8 +355,22 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-19 04:03:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-12-19 04:02:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-19 04:02:16 +0000",
+      "minecraft:spider": "2024-12-19 04:01:46 +0000",
       "minecraft:stray": "2024-12-19 03:46:32 +0000",
       "minecraft:zombie": "2024-12-19 03:46:26 +0000"
     },
@@ -407,6 +427,12 @@
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2024-12-19 03:49:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-12-19 04:02:30 +0000"
     },
     "done": true
   },
@@ -518,6 +544,12 @@
     },
     "done": true
   },
+  "mcwholidays:recipes/sitting_skeleton": {
+    "criteria": {
+      "has_planks": "2024-12-19 04:01:27 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_cabinet": {
     "criteria": {
       "has_log": "2024-12-19 03:44:37 +0000"
@@ -617,6 +649,12 @@
   "cfm:recipes/decorations/stripped_spruce_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2024-12-19 03:44:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-19 03:54:55 +0000"
     },
     "done": true
   },
@@ -1009,6 +1047,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-19 04:02:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 03:51:54 +0000"
@@ -1259,6 +1303,12 @@
   "securitycraft:recipes/tools/universal_block_remover": {
     "criteria": {
       "has_iron": "2024-12-19 03:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-19 04:02:30 +0000"
     },
     "done": true
   },
@@ -1652,6 +1702,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-19 04:01:27 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
     "criteria": {
       "has_book": "2024-12-19 03:50:29 +0000"
@@ -1700,6 +1756,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-19 04:02:30 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-19 03:45:35 +0000"
@@ -1724,6 +1786,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-19 04:02:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-19 03:48:03 +0000"
@@ -1739,6 +1807,12 @@
   "aquaculture:recipes/aquaculture/fishing_line": {
     "criteria": {
       "has_items": "2024-12-19 03:41:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-19 04:02:30 +0000"
     },
     "done": true
   },
@@ -1799,6 +1873,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 03:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-19 04:02:30 +0000"
     },
     "done": true
   },
@@ -2022,6 +2102,12 @@
   "aquaculture:recipes/food/cooked_fish_fillet": {
     "criteria": {
       "has_items": "2024-12-19 03:41:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2024-12-19 04:01:27 +0000"
     },
     "done": true
   },
@@ -2257,6 +2343,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2024-12-19 04:02:59 +0000",
       "bread": "2024-12-19 03:47:33 +0000"
     },
     "done": false
@@ -2325,6 +2412,12 @@
   "cfm:recipes/decorations/red_grill": {
     "criteria": {
       "has_iron": "2024-12-19 03:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-19 04:02:30 +0000"
     },
     "done": true
   },
