@@ -1065,3 +1065,120 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [19Dec2024 03:34:43.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stouf has made the advancement [Minecraft Comes Alive]
 [19Dec2024 03:35:34.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
 [19Dec2024 03:36:03.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leon12full has made the advancement [Amateur Archaeologist]
+[19Dec2024 03:36:53.796] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jafetox1234[/127.56.87.130:58849] logged in with entity id 2924 at (-4.5, 84.0, -0.5)
+[19Dec2024 03:36:53.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jafetox1234 joined the game
+[19Dec2024 03:36:53.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jafetox1234 has made the advancement [Christmas]
+[19Dec2024 03:37:00.386] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Jafetox1234 (a699ff2e-a598-3a19-9730-7c63be39d034)
+[19Dec2024 03:37:15.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jafetox1234 has made the advancement [Alex's Mobs]
+[19Dec2024 03:37:24.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Stouf: Teleported Jafetox1234 to Stouf]
+[19Dec2024 03:37:24.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jafetox1234 has made the advancement [Minecraft Comes Alive]
+[19Dec2024 03:37:54.337] [Server thread/WARN] [tombstone/]: The death event of the player Jafetox1234 was canceled by another mod
+[19Dec2024 03:37:54.411] [Server thread/INFO] [tombstone/]: The player Jafetox1234 has successfully been saved
+[19Dec2024 03:37:57.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Stouf: Teleported Jafetox1234 to Stouf]
+[19Dec2024 03:39:56.073] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Kiro}[style={}] has been infected
+[19Dec2024 03:39:59.723] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kiro'/1631, l='ServerLevel[world]', x=124.86, y=64.00, z=-166.10] died, message: 'Kiro was slain by Zombie'
+[19Dec2024 03:40:05.768] [Server thread/WARN] [tombstone/]: The death event of the player Stouf was canceled by another mod
+[19Dec2024 03:40:05.781] [Server thread/INFO] [tombstone/]: The player Stouf has successfully been saved
+[19Dec2024 03:40:13.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Stouf: Teleported Stouf to Jafetox1234]
+[19Dec2024 03:40:26.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Stouf: Teleported Stouf to Leon12full]
+[19Dec2024 03:41:03.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leon12full has made the advancement [Monster Hunter]
+[19Dec2024 03:41:04.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stouf has made the advancement [Acquire Hardware]
+[19Dec2024 03:41:20.281] [Server thread/WARN] [tombstone/]: The death event of the player Stouf was canceled by another mod
+[19Dec2024 03:41:20.305] [Server thread/INFO] [tombstone/]: The player Stouf has successfully been saved
+[19Dec2024 03:41:54.743] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pol4ncus[/127.255.152.176:50563] logged in with entity id 4294 at (8.5, 68.0, -8.5)
+[19Dec2024 03:41:54.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pol4ncus joined the game
+[19Dec2024 03:41:54.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pol4ncus has made the advancement [Christmas]
+[19Dec2024 03:42:01.628] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Pol4ncus (eae5f1b8-9e4c-3aa1-a951-4387682d488e)
+[19Dec2024 03:42:07.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Stouf: Teleported Pol4ncus to Stouf]
+[19Dec2024 03:42:07.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pol4ncus has made the advancement [Minecraft Comes Alive]
+[19Dec2024 03:43:09.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leon12full has made the advancement [Getting an Upgrade]
+[19Dec2024 03:43:20.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leon12full has made the advancement [Hot Stuff]
+[19Dec2024 03:43:24.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leon12full has made the advancement [Isn't It Iron Pick]
+[19Dec2024 03:43:34.322] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Rodna}[style={}] has been infected
+[19Dec2024 03:43:34.935] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Rodna}[style={}] has been infected
+[19Dec2024 03:43:37.653] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Rodna'/1950, l='ServerLevel[world]', x=79.91, y=68.00, z=-234.75] died, message: 'Rodna was slain by Zombie'
+[19Dec2024 03:43:39.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leon12full has made the advancement [Acquire Hardware]
+[19Dec2024 03:43:41.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leon12full has made the advancement [Suit Up]
+[19Dec2024 03:43:50.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leon12full has made the advancement [Ice Bucket Challenge]
+[19Dec2024 03:43:52.642] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	Index: 3
+	Listeners:
+		0: HIGHEST
+		1: ASM: class ovh.corail.tombstone.event.EventHandler onPlayerInteractEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		2: HIGH
+		3: ASM: class tschipp.carryon.events.CommonEvents onEntityRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		4: ASM: class dev.architectury.event.forge.EventHandlerImplCommon eventPlayerInteractEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		5: ASM: team.creative.playerrevive.server.ReviveEventServer@764f1824 playerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		6: NORMAL
+		7: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@2068aa19 onInteractWithEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		8: net.minecraftforge.eventbus.EventBus$$Lambda/0x00007da668afe948@5af2588b
+		9: ASM: com.corosus.zombieawareness.ZAEventHandler@60d46e47 interact(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199)
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:124)
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36157_(Player.java:975)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[19Dec2024 03:43:52.651] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@66cae7, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199) ~[carryon-forge-1.20.1-2.1.2.7.jar%23193!/:2.1.2.7]
+	at tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:124) ~[carryon-forge-1.20.1-2.1.2.7.jar%23193!/:2.1.2.7]
+	at tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic) ~[carryon-forge-1.20.1-2.1.2.7.jar%23193!/:2.1.2.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764) ~[forge-1.20.1-47.3.7-universal.jar%23270!/:?]
+	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:975) ~[server-1.20.1-20230612.114412-srg.jar%23265!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460) ~[server-1.20.1-20230612.114412-srg.jar%23265!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472) ~[server-1.20.1-20230612.114412-srg.jar%23265!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23265!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23265!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23265!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23265!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23265!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23265!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23265!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23265!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23265!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23265!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23265!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23265!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23265!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23265!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23265!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23265!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23265!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23265!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[19Dec2024 03:45:20.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leon12full has made the advancement [Sweet Dreams]
+[19Dec2024 03:45:21.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jafetox1234 has made the advancement [Monster Hunter]
+[19Dec2024 03:45:21.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jafetox1234 has made the advancement [A Strange Grave Dust]
+[19Dec2024 03:45:28.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stouf has made the advancement [Monster Hunter]
+[19Dec2024 03:46:00.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pol4ncus has made the advancement [Getting an Upgrade]
+[19Dec2024 03:46:26.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pol4ncus has made the advancement [Monster Hunter]
+[19Dec2024 03:46:26.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pol4ncus has made the advancement [A Strange Grave Dust]
