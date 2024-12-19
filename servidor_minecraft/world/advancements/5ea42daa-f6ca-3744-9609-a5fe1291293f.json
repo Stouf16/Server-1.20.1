@@ -1326,6 +1326,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-19 04:56:39 +0000",
+      "minecraft:creeper": "2024-12-19 05:22:42 +0000",
       "minecraft:stray": "2024-12-19 04:01:29 +0000",
       "minecraft:enderman": "2024-12-19 04:57:26 +0000",
       "minecraft:zombie": "2024-12-19 03:41:03 +0000"
@@ -2712,6 +2713,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-12-19 05:16:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2024-12-19 05:14:41 +0000"
@@ -2721,6 +2728,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2024-12-19 04:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-19 05:19:18 +0000"
     },
     "done": true
   },
@@ -2964,6 +2977,12 @@
     },
     "done": true
   },
+  "jeg:raw_brimstone": {
+    "criteria": {
+      "Item": "2024-12-19 05:18:49 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-19 05:15:25 +0000"
@@ -3042,6 +3061,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-19 05:19:18 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_mail_box": {
     "criteria": {
       "has_chest": "2024-12-19 04:49:25 +0000"
@@ -3105,6 +3130,12 @@
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2024-12-19 04:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-19 05:19:18 +0000"
     },
     "done": true
   },
@@ -3588,6 +3619,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-12-19 05:17:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-19 04:22:04 +0000"
@@ -3735,6 +3772,12 @@
   "alexsmobs:alexsmobs/rocky_roller": {
     "criteria": {
       "killed_by": "2024-12-19 05:15:48 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2024-12-19 05:19:18 +0000"
     },
     "done": true
   },
