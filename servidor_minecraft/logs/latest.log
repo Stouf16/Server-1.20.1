@@ -1030,3 +1030,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [19Dec2024 16:56:39.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2238ms or 44 ticks behind
 [19Dec2024 16:57:17.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jafetox1234 moved too quickly! -254.95684913917006,2.0625,-186.70559575812894
 [19Dec2024 16:57:21.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2469ms or 49 ticks behind
+[19Dec2024 16:58:57.020] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[19Dec2024 16:59:19.131] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7122ms or 142 ticks behind
+[19Dec2024 16:59:22.329] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-94, y=-10, z=49}
+[19Dec2024 17:00:09.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[19Dec2024 17:04:25.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[19Dec2024 17:06:18.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[19Dec2024 17:06:30.443] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Nanny'/21469, l='ServerLevel[world]', x=233.49, y=107.44, z=646.71] died, message: 'Nanny went up in flames'
+[19Dec2024 17:06:30.444] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Nanny'/21469, l='ServerLevel[world]', x=233.49, y=107.44, z=646.71] died: Nanny went up in flames
+[19Dec2024 17:07:25.087] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Henric'/21644, l='ServerLevel[world]', x=249.70, y=116.25, z=702.77] died, message: 'Henric was slain by Murmur'
+[19Dec2024 17:07:25.088] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Henric'/21644, l='ServerLevel[world]', x=249.70, y=116.25, z=702.77] died: Henric was slain by Murmur
+[19Dec2024 17:08:34.645] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Linus'/21645, l='ServerLevel[world]', x=296.23, y=127.00, z=697.74] died, message: 'Linus was slain by Murmur'
+[19Dec2024 17:08:34.646] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Linus'/21645, l='ServerLevel[world]', x=296.23, y=127.00, z=697.74] died: Linus was slain by Murmur
