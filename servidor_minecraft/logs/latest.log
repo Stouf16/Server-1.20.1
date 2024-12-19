@@ -1171,3 +1171,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [19Dec2024 18:34:09.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
 [19Dec2024 18:35:40.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 2 of a max of 20 players online: Jafetox1234, Leon12full
 [19Dec2024 18:36:26.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leon12full moved too quickly! 6.159726218816672,0.8585853435474178,-8.362260771744786
+[19Dec2024 18:43:57.779] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leon12full lost connection: Disconnected
+[19Dec2024 18:43:57.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leon12full left the game
+[19Dec2024 18:43:57.828] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Dec2024 18:47:10.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: Jafetox1234
+[19Dec2024 18:48:54.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jafetox1234 moved too quickly! 70.79454053878258,105.0625,-218.26372266400884
+[19Dec2024 18:55:21.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jafetox1234 moved too quickly! -9.980409464902095,0.0,-2.7429452360933624
+[19Dec2024 18:55:28.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jafetox1234 moved too quickly! -9.988190998537362,0.0,1.8290724365199367
+[19Dec2024 19:00:23.822] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jafetox1234 lost connection: Disconnected
+[19Dec2024 19:00:23.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jafetox1234 left the game
