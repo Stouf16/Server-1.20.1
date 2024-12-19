@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "hopo:minecraft/adventure/all_mineshaft": {
+    "criteria": {
+      "locate_vanilla_mineshaft": "2024-12-19 04:33:48 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
     "criteria": {
       "has_log": "2024-12-19 03:30:37 +0000"
@@ -140,6 +146,12 @@
   "aquaculture:recipes/aquaculture/heavy_hook": {
     "criteria": {
       "has_items": "2024-12-19 03:28:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-19 04:35:43 +0000"
     },
     "done": true
   },
@@ -335,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2024-12-19 04:33:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-19 04:16:16 +0000"
@@ -362,6 +380,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-19 03:39:39 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2024-12-19 04:33:53 +0000"
     },
     "done": true
   },
@@ -791,6 +815,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/obsidian/obsidian_arrow": {
+    "criteria": {
+      "has_req": "2024-12-19 04:33:53 +0000"
+    },
+    "done": true
+  },
   "easy_mob_farm:recipes/upgrade/slot/small_slot_upgrade": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 03:41:04 +0000"
@@ -1187,6 +1217,12 @@
     },
     "done": true
   },
+  "easy_mob_farm:recipes/upgrade/enchancement/experience_enhancement": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-19 04:35:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2024-12-19 04:10:05 +0000"
@@ -1318,6 +1354,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-19 04:33:53 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/dark_oak_fish_mount": {
     "criteria": {
       "has_items": "2024-12-19 03:28:46 +0000"
@@ -1327,6 +1369,12 @@
   "cfm:recipes/decorations/pink_grill": {
     "criteria": {
       "has_iron": "2024-12-19 03:41:04 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/lapis/lapis_arrow": {
+    "criteria": {
+      "has_req": "2024-12-19 04:35:43 +0000"
     },
     "done": true
   },
@@ -1841,6 +1889,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-19 04:33:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-12-19 04:26:13 +0000"
@@ -1880,6 +1934,12 @@
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-12-19 03:31:33 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/lapis_lazuli_basic_shield": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-19 04:35:43 +0000"
     },
     "done": true
   },
@@ -1985,6 +2045,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-19 04:35:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/blacklist_module": {
     "criteria": {
       "has_iron": "2024-12-19 03:41:04 +0000"
@@ -2033,9 +2099,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2024-12-19 04:33:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-19 03:31:33 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2024-12-19 04:33:53 +0000"
     },
     "done": true
   },
@@ -2621,6 +2699,12 @@
     },
     "done": true
   },
+  "jeg:root": {
+    "criteria": {
+      "Item": "2024-12-19 04:40:06 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_upgraded_gate": {
     "criteria": {
       "has_log": "2024-12-19 03:30:37 +0000"
@@ -2690,6 +2774,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 03:41:04 +0000"
+    },
+    "done": true
+  },
+  "jeg:scrap": {
+    "criteria": {
+      "Item": "2024-12-19 04:40:06 +0000"
     },
     "done": true
   },
@@ -2934,6 +3024,18 @@
     },
     "done": true
   },
+  "obsidianboat:recipes/transportation/obsidian_boat": {
+    "criteria": {
+      "has_obsidian": "2024-12-19 04:33:53 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shapeless/obsidian_stick_adv": {
+    "criteria": {
+      "has_req": "2024-12-19 04:33:53 +0000"
+    },
+    "done": true
+  },
   "easy_mob_farm:recipes/mob_farm_template/tier2_mob_farm_template": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 03:41:04 +0000"
@@ -3009,6 +3111,12 @@
   "jodek:root": {
     "criteria": {
       "tick": "2024-12-19 03:28:47 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/building_blocks/crafting/shapeless/obsidian_stick_adv": {
+    "criteria": {
+      "has_req": "2024-12-19 04:33:53 +0000"
     },
     "done": true
   },
@@ -3117,6 +3225,12 @@
   "armorplus:recipes/armorplus.weapons/crafting/shaped/lapis/lapis_battle_axe": {
     "criteria": {
       "has_req": "2024-12-19 03:31:01 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-19 04:35:43 +0000"
     },
     "done": true
   },
@@ -3290,6 +3404,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.blocks/crafting/shaped/storage/compressed_obsidian": {
+    "criteria": {
+      "has_req": "2024-12-19 04:33:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2024-12-19 03:35:43 +0000"
@@ -3341,6 +3461,12 @@
   "armorplus:recipes/armorplus.weapons/crafting/shaped/emerald/emerald_arrow": {
     "criteria": {
       "has_req": "2024-12-19 03:59:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-19 04:33:53 +0000"
     },
     "done": true
   },
