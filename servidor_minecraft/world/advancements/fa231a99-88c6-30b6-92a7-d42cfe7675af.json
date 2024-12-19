@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "mcwholidays:recipes/cat_wall_deco_1": {
+    "criteria": {
+      "has_planks": "2024-12-19 05:39:53 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-19 03:31:01 +0000"
@@ -272,6 +278,12 @@
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2024-12-19 03:46:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2024-12-19 05:40:43 +0000"
     },
     "done": true
   },
@@ -516,6 +528,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2024-12-19 05:39:53 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.items/crafting/shaped/storage/frost_crystal": {
     "criteria": {
       "has_req": "2024-12-19 04:24:43 +0000"
@@ -573,6 +591,12 @@
   "mcwholidays:recipes/hay_wheelbarrow": {
     "criteria": {
       "has_planks": "2024-12-19 03:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-12-19 05:41:31 +0000"
     },
     "done": true
   },
@@ -691,6 +715,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/copper_tower_shield": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-19 05:41:34 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_mail_box": {
     "criteria": {
       "has_chest": "2024-12-19 04:13:12 +0000"
@@ -703,11 +733,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-19 05:41:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-19 04:17:48 +0000",
       "minecraft:spider": "2024-12-19 04:01:54 +0000",
       "minecraft:creeper": "2024-12-19 03:46:28 +0000",
+      "minecraft:enderman": "2024-12-19 05:46:43 +0000",
       "minecraft:stray": "2024-12-19 03:46:36 +0000",
       "minecraft:zombie": "2024-12-19 03:45:28 +0000"
     },
@@ -833,9 +870,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2024-12-19 05:41:31 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/bonemeal_from_fish_bones": {
     "criteria": {
       "has_items": "2024-12-19 03:28:46 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/witch_hat_wall_deco_2": {
+    "criteria": {
+      "has_planks": "2024-12-19 05:39:53 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/witch_hat_wall_deco_1": {
+    "criteria": {
+      "has_planks": "2024-12-19 05:39:53 +0000"
     },
     "done": true
   },
@@ -881,6 +936,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 05:40:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/username_logger": {
     "criteria": {
       "has_redstone": "2024-12-19 05:07:06 +0000"
@@ -922,6 +983,13 @@
       "has_leather": "2024-12-19 03:39:39 +0000"
     },
     "done": true
+  },
+  "hopo:minecraft/adventure/locate_all_underwater_structures": {
+    "criteria": {
+      "locate_underwater_fossil": "2024-12-19 05:50:27 +0000",
+      "locate_underwater_small_ruins": "2024-12-19 05:50:57 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/misc/whitelist_module": {
     "criteria": {
@@ -1028,6 +1096,12 @@
   "mcwholidays:recipes/sitting_skeleton": {
     "criteria": {
       "has_planks": "2024-12-19 03:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2024-12-19 05:41:31 +0000"
     },
     "done": true
   },
@@ -1148,6 +1222,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-19 04:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-19 05:41:34 +0000"
     },
     "done": true
   },
@@ -1328,6 +1408,12 @@
   "securitycraft:recipes/misc/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2024-12-19 03:41:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-19 05:41:34 +0000"
     },
     "done": true
   },
@@ -1592,6 +1678,12 @@
   "securitycraft:recipes/redstone/portable_radar": {
     "criteria": {
       "has_redstone": "2024-12-19 05:07:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 05:40:42 +0000"
     },
     "done": true
   },
@@ -2062,6 +2154,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 05:40:51 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/diamond_hook": {
     "criteria": {
       "has_items": "2024-12-19 03:28:46 +0000"
@@ -2258,6 +2356,12 @@
   "securitycraft:recipes/redstone/reinforced_dropper": {
     "criteria": {
       "has_redstone": "2024-12-19 05:07:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 05:40:41 +0000"
     },
     "done": true
   },
@@ -2495,6 +2599,30 @@
     },
     "done": true
   },
+  "mcwholidays:recipes/bat_wall_deco_3": {
+    "criteria": {
+      "has_planks": "2024-12-19 05:39:53 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/bat_wall_deco_2": {
+    "criteria": {
+      "has_planks": "2024-12-19 05:39:53 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/bat_wall_deco_1": {
+    "criteria": {
+      "has_planks": "2024-12-19 05:39:53 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/copper_basic_shield": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-19 05:41:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 03:41:04 +0000"
@@ -2522,6 +2650,12 @@
   "aquaculture:recipes/aquaculture/worm_farm": {
     "criteria": {
       "has_items": "2024-12-19 03:28:46 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-12-19 05:40:56 +0000"
     },
     "done": true
   },
@@ -2660,6 +2794,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-19 04:30:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-19 05:39:53 +0000"
     },
     "done": true
   },
@@ -2888,6 +3028,12 @@
   "securitycraft:recipes/redstone/laser_block": {
     "criteria": {
       "has_stone": "2024-12-19 03:31:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2024-12-19 05:39:53 +0000"
     },
     "done": true
   },
@@ -3311,6 +3457,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-19 05:49:50 +0000"
+    },
+    "done": true
+  },
   "easy_mob_farm:recipes/upgrade/enchancement/sheep_enhancement": {
     "criteria": {
       "has_shears": "2024-12-19 04:53:31 +0000"
@@ -3419,6 +3571,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-12-19 05:41:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-19 04:30:51 +0000"
@@ -3458,6 +3616,18 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-19 04:26:13 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/speed_enhancement": {
+    "criteria": {
+      "has_repeater": "2024-12-19 05:45:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-19 05:50:36 +0000"
     },
     "done": true
   },
@@ -3683,6 +3853,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2024-12-19 05:41:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2024-12-19 03:30:37 +0000"
@@ -3785,6 +3961,18 @@
     },
     "done": true
   },
+  "mcwholidays:recipes/spider_wall_deco_1": {
+    "criteria": {
+      "has_planks": "2024-12-19 05:39:53 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/spider_wall_deco_2": {
+    "criteria": {
+      "has_planks": "2024-12-19 05:39:53 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/hose_nozzle": {
     "criteria": {
       "has_iron": "2024-12-19 03:41:04 +0000"
@@ -3825,6 +4013,12 @@
     "criteria": {
       "has_fishing_rod": "2024-12-19 03:28:46 +0000",
       "has_fillet_knife": "2024-12-19 03:28:46 +0000"
+    },
+    "done": true
+  },
+  "bno:recipes/misc/copper_nugget": {
+    "criteria": {
+      "copper_nugget_from_ingot": "2024-12-19 05:41:34 +0000"
     },
     "done": true
   },
@@ -3879,6 +4073,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2024-12-19 04:21:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-19 05:50:36 +0000"
     },
     "done": true
   },
@@ -3978,6 +4178,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-19 05:46:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-19 03:31:43 +0000"
@@ -3999,6 +4205,24 @@
   "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-19 05:25:48 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/pumpkin_wall_deco_1": {
+    "criteria": {
+      "has_planks": "2024-12-19 05:39:53 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/pumpkin_wall_deco_2": {
+    "criteria": {
+      "has_planks": "2024-12-19 05:39:53 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/upgrade/enchancement/sword_enhancement": {
+    "criteria": {
+      "has_iron_sword": "2024-12-19 05:45:03 +0000"
     },
     "done": true
   },
@@ -4182,9 +4406,21 @@
     },
     "done": true
   },
+  "mcwholidays:recipes/ghost_wall_deco_2": {
+    "criteria": {
+      "has_planks": "2024-12-19 05:39:53 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_mangrove_fence": {
     "criteria": {
       "has_stick": "2024-12-19 03:31:01 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/ghost_wall_deco_1": {
+    "criteria": {
+      "has_planks": "2024-12-19 05:39:53 +0000"
     },
     "done": true
   },
@@ -4245,6 +4481,12 @@
   "cfm:recipes/decorations/spruce_mail_box": {
     "criteria": {
       "has_chest": "2024-12-19 04:13:12 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_catcher/mystic_binding_crystal": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-19 05:46:58 +0000"
     },
     "done": true
   },
@@ -4344,9 +4586,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-19 05:39:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_planks": "2024-12-19 04:55:42 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-19 05:39:47 +0000"
     },
     "done": true
   },
@@ -4377,8 +4631,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2024-12-19 03:48:43 +0000",
+      "minecraft:beach": "2024-12-19 05:49:20 +0000",
       "minecraft:snowy_plains": "2024-12-19 03:34:33 +0000",
-      "minecraft:snowy_taiga": "2024-12-19 03:28:50 +0000"
+      "minecraft:snowy_taiga": "2024-12-19 03:28:50 +0000",
+      "minecraft:cold_ocean": "2024-12-19 05:49:53 +0000",
+      "minecraft:forest": "2024-12-19 05:49:23 +0000",
+      "minecraft:frozen_ocean": "2024-12-19 05:47:47 +0000",
+      "minecraft:snowy_beach": "2024-12-19 05:47:44 +0000"
     },
     "done": false
   },
@@ -4460,6 +4719,12 @@
     },
     "done": true
   },
+  "mcwholidays:recipes/witch_cauldron": {
+    "criteria": {
+      "has_planks": "2024-12-19 05:45:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2024-12-19 03:35:34 +0000"
@@ -4487,6 +4752,12 @@
   "armorplus:recipes/armorplus.blocks/crafting/shaped/storage/compressed_obsidian": {
     "criteria": {
       "has_req": "2024-12-19 04:33:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-12-19 05:41:31 +0000"
     },
     "done": true
   },
@@ -4583,6 +4854,12 @@
   "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-19 05:25:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-12-19 05:40:43 +0000"
     },
     "done": true
   },
