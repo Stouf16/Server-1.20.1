@@ -308,9 +308,11 @@
       "minecraft:snowy_taiga": "2024-12-19 03:29:56 +0000",
       "minecraft:dripstone_caves": "2024-12-19 04:59:39 +0000",
       "minecraft:grove": "2024-12-19 17:34:14 +0000",
+      "minecraft:jagged_peaks": "2024-12-19 17:43:22 +0000",
       "minecraft:forest": "2024-12-19 04:20:56 +0000",
       "minecraft:lush_caves": "2024-12-19 17:28:09 +0000",
       "minecraft:ice_spikes": "2024-12-19 04:35:57 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-19 17:46:33 +0000",
       "minecraft:frozen_peaks": "2024-12-19 17:25:46 +0000",
       "minecraft:meadow": "2024-12-19 04:43:48 +0000",
       "minecraft:plains": "2024-12-19 04:35:07 +0000"
@@ -4650,6 +4652,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-19 17:48:44 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.items/crafting/shaped/ender_dragon/ender_dragon_bow_base": {
     "criteria": {
       "has_req": "2024-12-19 16:48:13 +0000"
@@ -4914,6 +4922,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2024-12-19 17:37:55 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/redstone/redstone_bow": {
     "criteria": {
       "has_req": "2024-12-19 16:48:13 +0000"
@@ -5037,6 +5051,12 @@
   "cfm:recipes/decorations/stripped_oak_bedside_cabinet": {
     "criteria": {
       "has_planks": "2024-12-19 17:17:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-12-19 17:48:44 +0000"
     },
     "done": true
   },
