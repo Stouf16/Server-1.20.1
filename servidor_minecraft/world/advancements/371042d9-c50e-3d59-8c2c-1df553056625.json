@@ -299,13 +299,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-12-20 05:02:46 +0000",
       "minecraft:old_growth_pine_taiga": "2024-12-20 04:56:16 +0000",
       "minecraft:taiga": "2024-12-20 03:46:59 +0000",
       "minecraft:river": "2024-12-20 04:13:46 +0000",
+      "minecraft:snowy_plains": "2024-12-20 05:03:03 +0000",
       "minecraft:snowy_taiga": "2024-12-20 03:42:57 +0000",
+      "minecraft:dripstone_caves": "2024-12-20 05:06:13 +0000",
       "minecraft:grove": "2024-12-20 03:48:01 +0000",
       "minecraft:forest": "2024-12-20 04:35:17 +0000",
-      "minecraft:old_growth_birch_forest": "2024-12-20 03:49:22 +0000"
+      "minecraft:old_growth_spruce_taiga": "2024-12-20 05:05:57 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-20 03:49:22 +0000",
+      "minecraft:plains": "2024-12-20 05:01:44 +0000"
     },
     "done": false
   },
@@ -2711,6 +2716,12 @@
     },
     "done": true
   },
+  "easy_mob_farm:recipes/mob_farm/swamp_farm": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-20 05:06:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2024-12-20 04:35:43 +0000"
@@ -2720,6 +2731,12 @@
   "mca:recipes/misc/bouquet": {
     "criteria": {
       "has_item": "2024-12-20 04:37:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-20 05:06:55 +0000"
     },
     "done": true
   },
@@ -2738,6 +2755,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2024-12-20 04:37:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-20 05:06:55 +0000"
     },
     "done": true
   },
