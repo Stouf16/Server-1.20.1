@@ -1145,3 +1145,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [20Dec2024 04:11:59.632] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Manuel'/8749, l='ServerLevel[world]', x=-2079.30, y=97.04, z=699.46] died, message: 'Manuel froze to death'
 [20Dec2024 04:12:08.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ainz has made the advancement [A Seedy Place]
 [20Dec2024 04:13:19.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: Ainz
+[20Dec2024 04:25:37.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ainz has made the advancement [Diamonds!]
+[20Dec2024 04:25:53.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ainz has made the advancement [Isn't It Iron Pick]
