@@ -1147,3 +1147,62 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [20Dec2024 04:13:19.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: Ainz
 [20Dec2024 04:25:37.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ainz has made the advancement [Diamonds!]
 [20Dec2024 04:25:53.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ainz has made the advancement [Isn't It Iron Pick]
+[20Dec2024 04:33:48.777] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Emilienne'/9135, l='ServerLevel[world]', x=-2087.28, y=96.94, z=694.72] died, message: 'Emilienne was slain by Ghoul'
+[20Dec2024 04:33:57.440] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Alex}[style={}] has been infected
+[20Dec2024 04:34:05.214] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ainz lost connection: Timed out
+[20Dec2024 04:34:05.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ainz left the game
+[20Dec2024 04:34:05.300] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Dec2024 04:34:47.186] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5647d6ef[id=<null>,name=Ainz,properties={},legacy=false] (/127.168.238.193:35791) lost connection: Disconnected
+[20Dec2024 04:35:00.126] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ainz[/127.168.238.193:39857] logged in with entity id 17716 at (-2142.6559077690504, 66.16610926093821, 635.7373820359303)
+[20Dec2024 04:35:00.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ainz joined the game
+[20Dec2024 04:35:02.659] [Server thread/WARN] [ImprovableSkills/]: Skill tick took too long! (2280 ms, expected <50 ms!). Time map: [improvableskills:ladder_king=2279, improvableskills:luck_of_the_sea=0, improvableskills:silent_foot=0, improvableskills:obsidian_skin=0, improvableskills:attack_speed=0, improvableskills:dexterous_arms=0, improvableskills:huckster=0, improvableskills:fast_swimmer=0, improvableskills:growth=0, improvableskills:accelerated_furnace=0, improvableskills:pvp=0, improvableskills:xp_plus=0, improvableskills:soft_landing=0, improvableskills:cutting=0, improvableskills:treasure_sands=0, improvableskills:mob_repellent=0, improvableskills:mining=0, improvableskills:atkdmg_ranged=0, improvableskills:alchemist=0, improvableskills:leaper=0, improvableskills:atkdmg_melee=0, improvableskills:ender_manipulator=0, improvableskills:generic_protection=0, improvableskills:health=0, improvableskills:enchanter=0, improvableskills:digging=0, improvableskills:soul_speed=0]
+[20Dec2024 04:35:02.684] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Ainz (371042d9-c50e-3d59-8c2c-1df553056625)
+[20Dec2024 04:35:02.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2561ms or 51 ticks behind
+[20Dec2024 04:35:08.756] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Alex'/17876, l='ServerLevel[world]', x=-2087.28, y=96.94, z=694.72] died, message: 'Alex was slain by Ghoul'
+[20Dec2024 04:35:08.757] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Alex'/17876, l='ServerLevel[world]', x=-2087.28, y=96.94, z=694.72] died: Alex was slain by Ghoul
+[20Dec2024 04:35:10.093] [Server thread/WARN] [tombstone/]: The death event of the player Ainz was canceled by another mod
+[20Dec2024 04:35:10.096] [Server thread/INFO] [tombstone/]: The player Ainz has successfully been saved
+[20Dec2024 04:35:20.604] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Augustin'/18080, l='ServerLevel[world]', x=-2319.59, y=99.44, z=554.51] died, message: 'Augustin went up in flames'
+[20Dec2024 04:35:20.605] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Augustin'/18080, l='ServerLevel[world]', x=-2319.59, y=99.44, z=554.51] died: Augustin went up in flames
+[20Dec2024 04:35:43.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ainz was shot by Skeleton
+[20Dec2024 04:35:43.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ainz has made the advancement [Your First Grave]
+[20Dec2024 04:35:45.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ainz has made the advancement [The Most Useful Key]
+[20Dec2024 04:37:36.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] entro en 20 minutos
+[20Dec2024 04:37:39.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: Ainz
+[20Dec2024 04:37:52.897] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Aimé}[style={}] has been infected
+[20Dec2024 04:39:47.702] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Aimé}[style={}] has been infected
+[20Dec2024 04:42:08.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ainz has made the advancement [Amateur Archaeologist]
+[20Dec2024 04:49:01.337] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Régine'/18319, l='ServerLevel[world]', x=-2062.24, y=65.00, z=579.24] died, message: 'Régine was slain by Ghoul'
+[20Dec2024 04:49:01.337] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Régine'/18319, l='ServerLevel[world]', x=-2062.24, y=65.00, z=579.24] died: Régine was slain by Ghoul
+[20Dec2024 04:51:47.838] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Guilain'/18386, l='ServerLevel[world]', x=-2088.67, y=70.54, z=617.35] died, message: 'Guilain was slain by Zombie'
+[20Dec2024 04:51:47.839] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Guilain'/18386, l='ServerLevel[world]', x=-2088.67, y=70.54, z=617.35] died: Guilain was slain by Zombie
+[20Dec2024 04:52:32.065] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Léane'/18383, l='ServerLevel[world]', x=-2068.71, y=66.00, z=586.29] died, message: 'Léane was slain by Zombie'
+[20Dec2024 04:52:32.067] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Léane'/18383, l='ServerLevel[world]', x=-2068.71, y=66.00, z=586.29] died: Léane was slain by Zombie
+[20Dec2024 04:52:46.867] [Server thread/WARN] [tombstone/]: The death event of the player Ainz was canceled by another mod
+[20Dec2024 04:52:46.883] [Server thread/INFO] [tombstone/]: The player Ainz has successfully been saved
+[20Dec2024 04:52:54.436] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Clet}[style={}] has been infected
+[20Dec2024 04:52:58.437] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Clet'/18385, l='ServerLevel[world]', x=-2068.30, y=66.00, z=586.30] died, message: 'Clet was slain by Zombie'
+[20Dec2024 04:52:58.438] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Clet'/18385, l='ServerLevel[world]', x=-2068.30, y=66.00, z=586.30] died: Clet was slain by Zombie
+[20Dec2024 04:53:38.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ainz was slain by Grizzly Bear
+[20Dec2024 04:53:44.069] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[20Dec2024 04:58:14.028] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Stouf[/127.76.154.45:49507] logged in with entity id 24097 at (72.69999998807907, 56.0, -256.4977430579585)
+[20Dec2024 04:58:14.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stouf joined the game
+[20Dec2024 04:58:19.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[20Dec2024 04:58:26.573] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to Stouf (fa231a99-88c6-30b6-92a7-d42cfe7675af)
+[20Dec2024 04:58:39.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Stouf> hola
+[20Dec2024 04:58:40.522] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=27, y=-9, z=69}
+[20Dec2024 04:58:40.535] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[20Dec2024 04:58:40.536] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[20Dec2024 04:58:58.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Stouf: Teleported Stouf to 1617.500000, 65.000000, 1180.500000]
+[20Dec2024 04:58:58.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3242ms or 64 ticks behind
+[20Dec2024 04:58:58.806] [Server thread/WARN] [ImprovableSkills/]: Skill tick took too long! (126 ms, expected <50 ms!). Time map: [improvableskills:accelerated_furnace=126, improvableskills:luck_of_the_sea=0, improvableskills:silent_foot=0, improvableskills:obsidian_skin=0, improvableskills:attack_speed=0, improvableskills:dexterous_arms=0, improvableskills:huckster=0, improvableskills:fast_swimmer=0, improvableskills:growth=0, improvableskills:pvp=0, improvableskills:xp_plus=0, improvableskills:soft_landing=0, improvableskills:cutting=0, improvableskills:treasure_sands=0, improvableskills:mob_repellent=0, improvableskills:mining=0, improvableskills:atkdmg_ranged=0, improvableskills:alchemist=0, improvableskills:leaper=0, improvableskills:atkdmg_melee=0, improvableskills:ladder_king=0, improvableskills:ender_manipulator=0, improvableskills:generic_protection=0, improvableskills:health=0, improvableskills:enchanter=0, improvableskills:digging=0, improvableskills:soul_speed=0]
+[20Dec2024 04:59:04.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ainz> buenas
+[20Dec2024 04:59:19.883] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6306ms or 126 ticks behind
+[20Dec2024 04:59:51.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stouf has reached the goal [Flowers of the Savanna]
+[20Dec2024 05:00:04.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[20Dec2024 05:00:22.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3516ms or 70 ticks behind
+[20Dec2024 05:00:45.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8065ms or 161 ticks behind
+[20Dec2024 05:01:03.797] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3220ms or 64 ticks behind
+[20Dec2024 05:01:25.391] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6614ms or 132 ticks behind
+[20Dec2024 05:01:49.455] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9078ms or 181 ticks behind
+[20Dec2024 05:02:11.982] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7555ms or 151 ticks behind
