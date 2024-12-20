@@ -11407,3 +11407,76 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [20Dec2024 05:22:59.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
 [20Dec2024 05:24:12.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ainz has made the advancement [Monster Hunter]
 [20Dec2024 05:24:23.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ainz has made the advancement [A Strange Grave Dust]
+[20Dec2024 05:24:31.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[20Dec2024 05:24:51.369] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5042ms or 100 ticks behind
+[20Dec2024 05:26:01.699] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jörg'/32711, l='ServerLevel[world]', x=-283.70, y=131.00, z=974.50] died, message: 'Jörg froze to death'
+[20Dec2024 05:26:10.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Stouf> puros creepers carajo
+[20Dec2024 05:26:18.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 05:26:18.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 05:26:21.130] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20Dec2024 05:26:35.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ainz> chorizo
+[20Dec2024 05:26:47.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ainz> pero si hay varios
+[20Dec2024 05:26:50.466] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Marietta'/34965, l='ServerLevel[world]', x=-287.53, y=104.00, z=851.46] died, message: 'Marietta froze to death'
+[20Dec2024 05:27:59.509] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['André'/34966, l='ServerLevel[world]', x=-294.70, y=105.00, z=843.50] died, message: 'André froze to death'
+[20Dec2024 05:28:24.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[20Dec2024 05:28:39.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Stouf> estoy haciendo mi casa en el aire
+[20Dec2024 05:28:42.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2891ms or 57 ticks behind
+[20Dec2024 05:29:00.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3217ms or 64 ticks behind
+[20Dec2024 05:29:13.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ainz> xd
+[20Dec2024 05:29:45.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ainz> donde estabas antes?
+[20Dec2024 05:30:20.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Stouf> agarré una casa de una aldea pero me fui a otro bioma
+[20Dec2024 05:31:22.075] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Ainz'/17716, l='ServerLevel[world]', x=-280.25, y=124.94, z=921.17], dimensionLocationPath overworld
+[20Dec2024 05:31:22.075] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Ainz'/17716, l='ServerLevel[world]', x=-280.25, y=124.94, z=921.17] in list []
+[20Dec2024 05:31:24.458] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Ainz'/17716, l='ServerLevel[world]', x=-278.94, y=125.00, z=922.34]
+[20Dec2024 05:31:29.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 05:31:29.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 05:31:42.303] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Ainz'/17716, l='ServerLevel[world]', x=-278.94, y=125.00, z=922.34], dimensionLocationPath overworld
+[20Dec2024 05:31:42.303] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Ainz'/17716, l='ServerLevel[world]', x=-278.94, y=125.00, z=922.34] in list []
+[20Dec2024 05:31:42.359] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Ainz'/17716, l='ServerLevel[world]', x=-278.94, y=125.00, z=922.34]
+[20Dec2024 05:34:30.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ainz> igual estoy en otra aldea
+[20Dec2024 05:34:37.228] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Annette}[style={}] has been infected
+[20Dec2024 05:34:39.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Stouf: Teleported Stouf to 72.500000, 56.000000, -255.500000]
+[20Dec2024 05:34:41.974] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2147ms or 42 ticks behind
+[20Dec2024 05:34:50.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ainz> pero no encuentro cosas interesantes
+[20Dec2024 05:34:59.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Stouf> en los cofres hay
+[20Dec2024 05:35:04.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7186ms or 143 ticks behind
+[20Dec2024 05:35:22.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3175ms or 63 ticks behind
+[20Dec2024 05:35:40.133] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[20Dec2024 05:35:54.587] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Palma'/32276, l='ServerLevel[world]', x=-283.75, y=131.04, z=974.50] died, message: 'Palma froze to death'
+[20Dec2024 05:36:29.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ainz> pura comida noma
+[20Dec2024 05:36:42.802] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 05:36:42.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 05:36:50.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Stouf> toño encontró una carne infinita
+[20Dec2024 05:37:10.675] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Carmela'/34985, l='ServerLevel[world]', x=-317.72, y=100.00, z=873.28] died, message: 'Carmela was slain by Zombie'
+[20Dec2024 05:37:15.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ainz> asu eso esta roto
+[20Dec2024 05:37:23.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Stouf> si
+[20Dec2024 05:37:27.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Stouf> yo aun nada
+[20Dec2024 05:38:14.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ainz> encontre unos patines para esquiar
+[20Dec2024 05:38:26.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ainz> pero no se como funciona
+[20Dec2024 05:38:33.690] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Martina'/32124, l='ServerLevel[world]', x=-247.28, y=124.72, z=936.72] died, message: 'Martina was slain by Zombie'
+[20Dec2024 05:38:52.252] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Ainz'/17716, l='ServerLevel[world]', x=-266.48, y=126.94, z=937.57], dimensionLocationPath overworld
+[20Dec2024 05:38:52.253] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Ainz'/17716, l='ServerLevel[world]', x=-266.48, y=126.94, z=937.57] in list []
+[20Dec2024 05:38:52.306] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Ainz'/17716, l='ServerLevel[world]', x=-266.63, y=126.94, z=937.73]
+[20Dec2024 05:39:02.318] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Emma}[style={}] has been infected
+[20Dec2024 05:39:07.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Stouf> en el inventario a la derecha de las armaduras hay un boton para poner los artefactos
+[20Dec2024 05:39:07.694] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Emma}[style={}] has been infected
+[20Dec2024 05:39:25.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Stouf> mientras mas esquies, mas experiencia y te da otras ventajas
+[20Dec2024 05:40:09.406] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Iris}[style={}] has been infected
+[20Dec2024 05:40:16.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ainz> ah bueno
+[20Dec2024 05:40:22.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Stouf: Teleported Stouf to 1617.500000, 65.000000, 1180.500000]
+[20Dec2024 05:40:26.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20Dec2024 05:40:29.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ainz> voy a ponermelas entonces
+[20Dec2024 05:40:33.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stouf moved too quickly! 2.3624477842138276,3.3749065644289686,-9.326331157880304
+[20Dec2024 05:40:39.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stouf moved too quickly! -1.5684726364190738,0.0,9.998648232999813
+[20Dec2024 05:40:47.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Stouf> si
+[20Dec2024 05:40:55.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14116ms or 282 ticks behind
+[20Dec2024 05:41:07.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stouf has made the advancement [It's an Emu!!!]
+[20Dec2024 05:41:25.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stouf moved too quickly! -7.454034049307211,7.5,0.3754412073972162
+[20Dec2024 05:41:25.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2236ms or 44 ticks behind
+[20Dec2024 05:42:01.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 05:42:01.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 05:42:23.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Stouf: Teleported Stouf to Ainz]
+[20Dec2024 05:43:25.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Stouf: Teleported Stouf to 1589.500000, 122.000000, 1340.500000]
+[20Dec2024 05:43:35.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2562ms or 51 ticks behind
+[20Dec2024 05:43:53.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3072ms or 61 ticks behind
+[20Dec2024 05:43:56.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Stouf: Teleported Stouf to 1617.500000, 65.000000, 1180.500000]
