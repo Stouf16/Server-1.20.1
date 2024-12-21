@@ -304,6 +304,7 @@
       "minecraft:beach": "2024-12-19 05:49:14 +0000",
       "minecraft:river": "2024-12-21 00:58:23 +0000",
       "minecraft:snowy_plains": "2024-12-19 03:42:07 +0000",
+      "minecraft:stony_shore": "2024-12-21 02:00:30 +0000",
       "minecraft:snowy_taiga": "2024-12-19 03:41:56 +0000",
       "minecraft:grove": "2024-12-19 04:18:06 +0000",
       "minecraft:cold_ocean": "2024-12-19 05:49:42 +0000",
@@ -4029,6 +4030,7 @@
   },
   "hopo:minecraft/adventure/all_mineshaft": {
     "criteria": {
+      "locate_spruce_mineshaft": "2024-12-21 02:13:44 +0000",
       "locate_vanilla_mineshaft": "2024-12-19 04:33:51 +0000"
     },
     "done": false
@@ -4903,6 +4905,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:06:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2024-12-21 00:53:11 +0000"
@@ -4912,6 +4920,12 @@
   "cfm:recipes/decorations/acacia_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-21 01:25:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:06:39 +0000"
     },
     "done": true
   },
@@ -4954,6 +4968,12 @@
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2024-12-21 01:34:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-21 02:23:03 +0000"
     },
     "done": true
   },
@@ -5023,6 +5043,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_crate": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:06:39 +0000"
+    },
+    "done": true
+  },
   "mcwholidays:recipes/pumpkin_wheelbarrow": {
     "criteria": {
       "has_planks": "2024-12-21 00:48:10 +0000"
@@ -5038,6 +5064,12 @@
   "cfm:recipes/decorations/white_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-21 01:25:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:06:39 +0000"
     },
     "done": true
   },
@@ -5155,6 +5187,12 @@
     },
     "done": true
   },
+  "jeg:repeating_shotgun": {
+    "criteria": {
+      "Item": "2024-12-21 01:51:33 +0000"
+    },
+    "done": true
+  },
   "mcwholidays:recipes/small_pumpkin": {
     "criteria": {
       "has_planks": "2024-12-21 00:48:10 +0000"
@@ -5173,9 +5211,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:06:39 +0000"
+    },
+    "done": true
+  },
   "mcwholidays:recipes/carved_smile_pumpkin": {
     "criteria": {
       "has_planks": "2024-12-21 00:48:10 +0000"
+    },
+    "done": true
+  },
+  "hopo:minecraft/adventure/locate_mineshaft": {
+    "criteria": {
+      "locate_spruce_mineshaft": "2024-12-21 02:13:44 +0000"
     },
     "done": true
   },
@@ -5200,6 +5250,12 @@
   "cfm:recipes/decorations/pink_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-21 01:25:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:06:39 +0000"
     },
     "done": true
   },
@@ -5239,6 +5295,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_desk": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:06:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:06:39 +0000"
+    },
+    "done": true
+  },
   "mcwholidays:recipes/lit_smile_pumpkin": {
     "criteria": {
       "has_planks": "2024-12-21 00:48:10 +0000"
@@ -5260,6 +5328,12 @@
   "travelersbackpack:recipes/misc/diamond": {
     "criteria": {
       "has_diamond": "2024-12-21 01:34:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_table": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:06:39 +0000"
     },
     "done": true
   },
@@ -5341,9 +5415,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-21 02:23:03 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/green_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-21 01:25:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:06:39 +0000"
     },
     "done": true
   },
@@ -5407,6 +5493,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:06:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2024-12-21 01:34:41 +0000"
@@ -5428,6 +5520,12 @@
   "cfm:recipes/decorations/stripped_birch_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-21 01:25:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:06:39 +0000"
     },
     "done": true
   },
@@ -5479,9 +5577,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_chair": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:06:39 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/warped_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-21 01:25:57 +0000"
+    },
+    "done": true
+  },
+  "jeg:infantry_rifle": {
+    "criteria": {
+      "Item": "2024-12-21 01:51:32 +0000"
     },
     "done": true
   },
@@ -5509,6 +5619,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-21 02:19:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-21 01:25:57 +0000"
@@ -5521,9 +5637,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:06:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:06:39 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/emerald_smithing": {
     "criteria": {
       "has_emerald": "2024-12-21 00:40:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-21 02:24:06 +0000"
     },
     "done": true
   },
@@ -5560,6 +5694,12 @@
   "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-21 01:25:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:06:39 +0000"
     },
     "done": true
   },
@@ -5617,6 +5757,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_park_bench": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:06:39 +0000"
+    },
+    "done": true
+  },
+  "jeg:service_rifle": {
+    "criteria": {
+      "Item": "2024-12-21 01:55:29 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/enderman": {
     "criteria": {
       "has_ender_pearl": "2024-12-21 00:36:32 +0000"
@@ -5632,6 +5784,12 @@
   "mcwholidays:recipes/pumpkin_wall_deco_2": {
     "criteria": {
       "has_planks": "2024-12-21 01:34:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:06:39 +0000"
     },
     "done": true
   },
@@ -5704,6 +5862,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-12-21 01:34:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:06:39 +0000"
     },
     "done": true
   },
