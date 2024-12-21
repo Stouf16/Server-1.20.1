@@ -5806,6 +5806,54 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-12-21 02:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-21 02:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-12-21 02:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-21 02:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-12-21 02:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-12-21 02:43:54 +0000"
+    },
+    "done": true
+  },
+  "jeg:recycler": {
+    "criteria": {
+      "Item": "2024-12-21 02:36:53 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/stone_cross": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:43:54 +0000"
+    },
+    "done": true
+  },
   "hopo:minecraft/adventure/locate_mineshaft": {
     "criteria": {
       "locate_spruce_mineshaft": "2024-12-21 02:25:57 +0000"
@@ -5824,9 +5872,27 @@
     },
     "done": true
   },
+  "mcwholidays:recipes/wooden_cross": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:43:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ice_from_freezing": {
     "criteria": {
       "has_water": "2024-12-21 02:19:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-12-21 02:43:54 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/tall_gravestone": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:43:54 +0000"
     },
     "done": true
   },
@@ -5836,9 +5902,93 @@
     },
     "done": true
   },
+  "mcwholidays:recipes/flat_dirt_gravestone": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:43:54 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.items/crafting/shapeless/storage/lava_shard_to_item_adv": {
     "criteria": {
       "has_req": "2024-12-21 02:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-12-21 02:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-12-21 02:43:54 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/small_gravestone": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-21 02:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-21 02:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-21 02:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-21 02:43:54 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/flat_gravestone": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-21 02:43:54 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/slanted_gravestone": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:43:54 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/square_gravestone": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:43:54 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/gravestone": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:43:54 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.blocks/crafting/shaped/soul_box_adv": {
+    "criteria": {
+      "has_req": "2024-12-21 02:43:54 +0000"
     },
     "done": true
   },

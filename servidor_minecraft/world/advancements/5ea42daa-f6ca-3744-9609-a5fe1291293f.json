@@ -315,6 +315,7 @@
       "minecraft:lush_caves": "2024-12-19 17:28:09 +0000",
       "minecraft:ice_spikes": "2024-12-19 04:35:57 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-19 17:46:33 +0000",
+      "minecraft:snowy_beach": "2024-12-21 02:45:43 +0000",
       "minecraft:frozen_peaks": "2024-12-19 17:25:46 +0000",
       "minecraft:deep_dark": "2024-12-19 17:54:40 +0000",
       "minecraft:meadow": "2024-12-19 04:43:48 +0000",
@@ -5669,9 +5670,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-21 02:41:02 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/single_potion": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:41:02 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/three_potions": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:41:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-21 02:41:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-21 02:42:57 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/pair_of_potions": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:41:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-21 02:42:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-21 02:42:57 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2024-12-21 02:41:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-21 02:42:57 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2024-12-21 02:18:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-21 02:41:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-21 02:41:02 +0000"
     },
     "done": true
   },
