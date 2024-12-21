@@ -5824,6 +5824,12 @@
     },
     "done": true
   },
+  "jeg:gunmetal_ingot": {
+    "criteria": {
+      "Item": "2024-12-21 02:52:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-21 02:43:54 +0000"
@@ -5884,6 +5890,12 @@
     },
     "done": true
   },
+  "jeg:gunmetal_grit": {
+    "criteria": {
+      "Item": "2024-12-21 02:50:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2024-12-21 02:43:54 +0000"
@@ -5893,6 +5905,12 @@
   "mcwholidays:recipes/tall_gravestone": {
     "criteria": {
       "has_planks": "2024-12-21 02:43:54 +0000"
+    },
+    "done": true
+  },
+  "jeg:gunmetal_nugget": {
+    "criteria": {
+      "Item": "2024-12-21 02:52:30 +0000"
     },
     "done": true
   },

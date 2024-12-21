@@ -4898,6 +4898,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:57:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-21 02:56:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_chair": {
+    "criteria": {
+      "has_log": "2024-12-21 02:56:59 +0000"
+    },
+    "done": true
+  },
   "mcwholidays:recipes/cat_wall_deco_1": {
     "criteria": {
       "has_planks": "2024-12-21 01:34:41 +0000"
@@ -5024,6 +5042,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/acacia_desk": {
+    "criteria": {
+      "has_log": "2024-12-21 02:56:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-12-21 02:56:59 +0000"
+    },
+    "done": true
+  },
   "mcwholidays:recipes/medium_pumpkin": {
     "criteria": {
       "has_planks": "2024-12-21 00:48:10 +0000"
@@ -5033,6 +5063,12 @@
   "mca:recipes/misc/blueprint": {
     "criteria": {
       "has_item": "2024-12-21 01:34:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_table": {
+    "criteria": {
+      "has_log": "2024-12-21 02:56:59 +0000"
     },
     "done": true
   },
@@ -5096,9 +5132,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:57:08 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-21 01:25:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-12-21 02:56:59 +0000"
     },
     "done": true
   },
@@ -5111,6 +5159,12 @@
   "cfm:recipes/decorations/purple_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-21 01:25:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:57:08 +0000"
     },
     "done": true
   },
@@ -5156,6 +5210,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/acacia_park_bench": {
+    "criteria": {
+      "has_log": "2024-12-21 02:56:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/orange_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-21 01:25:57 +0000"
@@ -5192,9 +5252,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-12-21 02:55:23 +0000"
+    },
+    "done": true
+  },
   "jeg:repeating_shotgun": {
     "criteria": {
       "Item": "2024-12-21 01:51:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:56:59 +0000"
     },
     "done": true
   },
@@ -5216,6 +5288,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_acacia_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:56:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-21 02:06:39 +0000"
@@ -5228,9 +5306,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/acacia_blinds": {
+    "criteria": {
+      "has_log": "2024-12-21 02:56:59 +0000"
+    },
+    "done": true
+  },
   "hopo:minecraft/adventure/locate_mineshaft": {
     "criteria": {
       "locate_spruce_mineshaft": "2024-12-21 02:13:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:57:08 +0000"
     },
     "done": true
   },
@@ -5288,6 +5378,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-12-21 02:55:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_acacia_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-21 01:25:57 +0000"
@@ -5303,6 +5399,12 @@
   "cfm:recipes/decorations/oak_desk": {
     "criteria": {
       "has_planks": "2024-12-21 02:06:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_blinds": {
+    "criteria": {
+      "has_log": "2024-12-21 02:55:23 +0000"
     },
     "done": true
   },
@@ -5324,15 +5426,51 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/acacia_desk_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-21 02:56:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:56:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-21 02:56:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-12-21 00:58:50 +0000"
     },
     "done": true
   },
+  "easy_mob_farm:recipes/mob_farm/swamp_farm": {
+    "criteria": {
+      "has_oak_log": "2024-12-21 02:55:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-21 02:56:59 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/diamond": {
     "criteria": {
       "has_diamond": "2024-12-21 01:34:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_crate": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:56:59 +0000"
     },
     "done": true
   },
@@ -5354,9 +5492,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-21 02:56:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
     "criteria": {
       "has_salmon": "2024-12-21 00:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-21 02:55:23 +0000"
     },
     "done": true
   },
@@ -5402,6 +5552,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-21 02:55:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2024-12-21 01:44:21 +0000"
@@ -5414,9 +5570,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_desk": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:55:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/cyan_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-21 01:25:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_crate": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:55:23 +0000"
     },
     "done": true
   },
@@ -5462,6 +5630,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-12-21 02:55:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-21 01:25:57 +0000"
@@ -5492,6 +5666,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_table": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:57:08 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_crimson_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-21 01:25:57 +0000"
@@ -5501,6 +5687,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-21 02:06:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:55:23 +0000"
     },
     "done": true
   },
@@ -5546,6 +5738,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:57:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:55:23 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/books": {
     "criteria": {
       "has_item": "2024-12-21 01:34:41 +0000"
@@ -5555,6 +5759,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2024-12-21 00:53:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:57:08 +0000"
     },
     "done": true
   },
@@ -5603,6 +5813,12 @@
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2024-12-21 00:48:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-21 02:55:23 +0000"
     },
     "done": true
   },
@@ -5702,9 +5918,39 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_park_bench": {
+    "criteria": {
+      "has_log": "2024-12-21 02:55:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_table": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:56:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:57:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-12-21 02:06:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:55:23 +0000"
+    },
+    "done": true
+  },
+  "easy_mob_farm:recipes/mob_farm/bee_hive_farm": {
+    "criteria": {
+      "has_oak_log": "2024-12-21 02:55:23 +0000"
     },
     "done": true
   },
@@ -5717,6 +5963,12 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2024-12-21 01:44:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_coffee_table": {
+    "criteria": {
+      "has_log": "2024-12-21 02:56:59 +0000"
     },
     "done": true
   },
@@ -5735,6 +5987,18 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2024-12-21 00:48:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-12-21 02:56:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_park_bench": {
+    "criteria": {
+      "has_log": "2024-12-21 02:56:59 +0000"
     },
     "done": true
   },
@@ -5765,6 +6029,18 @@
   "cfm:recipes/decorations/oak_park_bench": {
     "criteria": {
       "has_planks": "2024-12-21 02:06:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-12-21 02:56:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_desk": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:56:59 +0000"
     },
     "done": true
   },
@@ -5852,15 +6128,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:57:08 +0000"
+    },
+    "done": true
+  },
   "easy_mob_farm:recipes/mob_catcher/mystic_binding_crystal": {
     "criteria": {
       "has_ender_pearl": "2024-12-21 00:36:32 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_chair": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:55:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-21 01:25:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_crate": {
+    "criteria": {
+      "has_log": "2024-12-21 02:56:59 +0000"
     },
     "done": true
   },
@@ -5885,6 +6179,12 @@
   "mcwholidays:recipes/lit_friendly_pumpkin": {
     "criteria": {
       "has_planks": "2024-12-21 00:48:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_chair": {
+    "criteria": {
+      "has_planks": "2024-12-21 02:56:59 +0000"
     },
     "done": true
   },
@@ -5915,6 +6215,12 @@
   "cfm:recipes/decorations/red_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-21 01:25:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-21 02:56:59 +0000"
     },
     "done": true
   },
