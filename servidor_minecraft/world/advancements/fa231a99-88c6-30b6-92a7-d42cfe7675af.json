@@ -5830,6 +5830,12 @@
     },
     "done": true
   },
+  "jeg:infantry_rifle": {
+    "criteria": {
+      "Item": "2024-12-21 02:30:50 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.items/crafting/shapeless/storage/lava_shard_to_item_adv": {
     "criteria": {
       "has_req": "2024-12-21 02:21:08 +0000"

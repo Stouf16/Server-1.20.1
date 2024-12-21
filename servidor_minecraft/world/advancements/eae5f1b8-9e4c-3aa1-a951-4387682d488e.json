@@ -301,6 +301,7 @@
     "criteria": {
       "minecraft:taiga": "2024-12-19 04:14:35 +0000",
       "minecraft:frozen_river": "2024-12-19 03:47:21 +0000",
+      "minecraft:savanna_plateau": "2024-12-21 02:34:51 +0000",
       "minecraft:beach": "2024-12-19 05:49:14 +0000",
       "minecraft:river": "2024-12-21 00:58:23 +0000",
       "minecraft:snowy_plains": "2024-12-19 03:42:07 +0000",
@@ -5784,6 +5785,12 @@
   "mcwholidays:recipes/pumpkin_wall_deco_2": {
     "criteria": {
       "has_planks": "2024-12-21 01:34:41 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shapeless/storage/frost_shard_to_item_adv": {
+    "criteria": {
+      "has_req": "2024-12-21 02:31:10 +0000"
     },
     "done": true
   },
