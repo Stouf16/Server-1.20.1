@@ -1021,3 +1021,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [21Dec2024 01:13:53.248] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=22, y=-11, z=-129}
 [21Dec2024 01:13:53.249] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=21, y=-11, z=-129}
 [21Dec2024 01:17:37.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pol4ncus has made the advancement [Sneak 100]
+[21Dec2024 01:22:12.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: Pol4ncus
+[21Dec2024 01:33:42.407] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-162, y=-12, z=171}
+[21Dec2024 01:34:02.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pol4ncus has made the advancement [Diamonds!]
+[21Dec2024 01:39:45.717] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
